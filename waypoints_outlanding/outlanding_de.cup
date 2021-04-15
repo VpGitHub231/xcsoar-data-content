@@ -1,0 +1,53 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+*
+* ##################################################################################################################################################################################################
+* Outlanding Spots Germany
+* Data: unknown
+* Version: 2020-07-01
+* Format: SeeYou Waypoint format (.CUP)
+* ##################################################################################################################################################################################################
+*
+"Amberg 29 Rwy",,DE,4926.383N,01148.750E,391.0m,3,290,280.0m,123.350,"Landefeld"
+"Antdorf",,DE,4745.600N,01118.267E,615.0m,3,080,480.0m,,"Landefeld"
+"Argenbühl Eisen",,DE,4741.483N,00957.783E,684.0m,3,080,400.0m,123.425,"Landefeld"
+"Aurach",,DE,4742.000N,01155.450E,808.0m,3,180,310.0m,,"Landefeld"
+"Bayrischzell",,DE,4740.083N,01201.100E,797.0m,3,170,300.0m,,"Landefeld"
+"Berg Ravensburg",,DE,4749.967N,00932.500E,594.0m,3,030,270.0m,120.975,"Landefeld"
+"Boschhof",,DE,4749.000N,01125.000E,597.0m,3,020,400.0m,,"Landefeld"
+"Dettingen 09 Rwy",,DE,4836.567N,00928.267E,374.0m,3,090,220.0m,122.175,"Landefeld"
+"Dürnbach",,DE,4745.933N,01143.933E,751.0m,3,160,500.0m,,"Landefeld"
+"Fall Sylvenstein",,DE,4734.167N,01132.983E,780.0m,3,160,470.0m,,"Landefeld"
+"Farchant N",,DE,4732.417N,01106.483E,665.0m,3,030,350.0m,,"Landefeld"
+"Farchant S",,DE,4731.417N,01106.483E,679.0m,3,020,300.0m,,"Landefeld"
+"Fischbachau",,DE,4743.350N,01155.983E,754.0m,3,090,300.0m,,"Landefeld"
+"Fischhausen",,DE,4742.550N,01152.117E,801.0m,3,140,400.0m,,"Landefeld"
+"Further Drachenh",,DE,4917.817N,01252.200E,412.0m,3,120,230.0m,,"Landefeld"
+"Garmisch O",,DE,4729.000N,01105.933E,731.0m,3,180,300.0m,,"Landefeld"
+"Garmisch W",,DE,4728.300N,01103.283E,743.0m,3,040,250.0m,,"Landefeld"
+"Göppingen Cls",,DE,4842.450N,00941.383E,371.0m,3,070,600.0m,122.100,"Landefeld"
+"Hausham",,DE,4744.800N,01151.150E,781.0m,3,100,300.0m,,"Landefeld"
+"Hohentann Lands",,DE,4839.767N,01203.533E,471.0m,3,070,320.0m,123.425,"Landefeld"
+"Jachenau Höfen?",,DE,4736.483N,01129.500E,734.0m,3,070,300.0m,,"Landefeld"
+"Kochel",,DE,4740.250N,01121.167E,599.0m,3,130,400.0m,,"Landefeld"
+"Krün",,DE,4730.600N,01116.000E,889.0m,3,070,500.0m,,"Landefeld"
+"Lauda Landefeld",,DE,4934.483N,00942.583E,185.0m,3,160,370.0m,,"Landefeld"
+"Lengries1",,DE,4740.850N,01133.600E,698.0m,3,260,400.0m,,"Landefeld"
+"Lengries3",,DE,4740.000N,01134.000E,716.0m,3,090,400.0m,,"Landefeld"
+"Mittelfischach",,DE,4902.133N,00952.233E,385.0m,3,150,500.0m,123.425,"Landefeld"
+"Mittenwald",,DE,4725.100N,01115.533E,934.0m,3,010,300.0m,,"Landefeld"
+"Neubiberg Cls",,DE,4804.383N,01138.283E,576.0m,3,070,2140.0m,,"Landefeld"
+"Oberrot Glashofe",,DE,4900.600N,00938.333E,488.0m,3,100,250.0m,123.425,"Landefeld"
+"Obersöllbach",,DE,4911.000N,00933.550E,287.0m,3,150,260.0m,123.425,"Landefeld"
+"Ödheim Heli Mil",,DE,4914.483N,00914.067E,156.0m,3,180,420.0m,122.000,"Landefeld"
+"Peissenberg Cls",,DE,4749.967N,01104.000E,606.0m,3,010,850.0m,123.500,"Landefeld"
+"Reit I Winkel",,DE,4740.417N,01228.700E,689.0m,3,010,250.0m,,"Landefeld"
+"Rottach",,DE,4740.950N,01148.150E,761.0m,3,110,260.0m,,"Landefeld"
+"Scharling",,DE,4740.150N,01144.767E,778.0m,3,090,300.0m,,"Landefeld"
+"Spitzingsee",,DE,4739.150N,01153.400E,1051.0m,3,130,300.0m,,"Landefeld"
+"Tauberbisch Wies",,DE,4939.000N,00938.683E,171.0m,3,150,360.0m,,"Landefeld"
+"Unterbuchen",,DE,4747.017N,01129.133E,635.0m,3,040,300.0m,,"Landefeld"
+"Unterschwaningen",,DE,4905.167N,01038.083E,476.0m,3,080,300.0m,120.975,"Landefeld"
+"Vorderriss",,DE,4733.550N,01126.267E,810.0m,3,170,300.0m,,"Landefeld"
+"Wackersberg",,DE,4744.100N,01133.100E,731.0m,3,100,400.0m,,"Landefeld"
+"WalXHeim Untersc",,DE,4857.217N,01019.517E,509.0m,3,090,300.0m,120.975,"Landefeld"
+"Wegscheid",,DE,4739.833N,01134.233E,711.0m,3,080,300.0m,,"Landefeld"

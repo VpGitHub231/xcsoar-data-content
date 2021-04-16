@@ -1,0 +1,2 @@
+* GitHub gives an error if a folder is empty.
+* As soon as some usefull data is in this folder, this file can be deleted.

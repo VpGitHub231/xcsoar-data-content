@@ -1,0 +1,18 @@
+#!/bin/sh
+
+# Todo:
+# • Make airspace files selectable (concatenate String with path to files?)
+# • Make output file name selectable or generate it automaticaly depending on used airspace files
+# • Create same script for waypoint files
+# • Add licensing information?
+# • Add further airspaces when they are converted to new file name format
+
+cat \
+../airspaces/airspace_at_austria.txt \
+../airspaces/airspace_ca_canada.txt \
+../airspaces/airspace_ch_switzerland.txt \
+../airspaces/airspace_cz_czechia.txt \
+../airspaces/airspace_de_germany.txt \
+../airspaces/airspace_fi_finland.txt \
+> \
+../airspaces/airspace_all_combined.txt

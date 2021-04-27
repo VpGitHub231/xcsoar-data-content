@@ -1,5 +1,5 @@
 * ##################################################################################################################################################################################################
-* Airfields AT (Austria)
+* Airfield AT (Austria)
 * Format: SeeYou Waypoint format (.cup)
 * $Author$
 * $Date$
@@ -55,7 +55,7 @@
 * *****************************************************************************
 * Put external downloaded data below. 
 * Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
-* Data Source: https://www.austrocontrol.at/jart/prj3/ac/data/dokumente/austria_acg_waypoints_2021-05-20_2021-04-01_1004746.cup
+* Data Source: https://www.austrocontrol.at/piloten/vor_dem_flug/aim_produkte/luftraumstruktur
 * Data Download Date: 2021-04-16
 * *****************************************************************************
 *

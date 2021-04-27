@@ -16,11 +16,11 @@
 * *****************************************************************************
 * Put external downloaded data below. 
 * Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
-* Data Source: 
-* Data Download Date: 
+* Data Source: https://landewiesen.streckenflug.at/
+* Data Download Date: 2021-04-27
 * *****************************************************************************
 *
-* Because of licensing issues no data here. If you want to have it, please register at https://landewiesen.streckenflug.at//
+* Because of licensing issues no data here. If you want to have it, please register at https://landewiesen.streckenflug.at/
 * There you can download data for austria and surrounding countries. Put the downloaded data here to get it included into your personal *.cup file.
 * IMPORTANT: After putting the data here, don't upload this file back to GitHub!
 *

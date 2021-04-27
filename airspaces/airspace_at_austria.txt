@@ -16,7 +16,7 @@
 * *****************************************************************************
 * Put external downloaded data below. 
 * Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
-* Data Source: https://www.austrocontrol.at/jart/prj3/ac/data/dokumente/austria_acg_airspaces_2020-12-03_xcsoar_2020-10-22_0710894.txt
+* Data Source: https://www.austrocontrol.at/piloten/vor_dem_flug/aim_produkte/luftraumstruktur
 * Data Download Date: 2021-04-16
 * *****************************************************************************
 *

@@ -1,5 +1,5 @@
 * ##################################################################################################################################################################################################
-* Airfield ZM (Zambia)
+* Airfield LK (Sri Lanka)
 * Format: SeeYou Waypoint format (.cup)
 * $Author$
 * $Date$
@@ -11,19 +11,18 @@
 * Put manual added data below
 * *****************************************************************************
 *
-"Chipata",,ZM,1333.700S,03235.100E,1024.0m,5,080,800.0m,118.300,"Flugplatz"
-"Kasama",,ZM,1013.000S,03108.000E,1384.0m,2,130,1870.0m,118.300,"Flugplatz"
-"Kasompe",,ZM,1234.000S,02753.000E,1414.0m,5,110,1410.0m,,"Flugplatz"
-"Kitwe Southdowns",,ZM,1254.000S,02809.000E,1265.0m,5,110,1990.0m,119.700,"Flugplatz"
-"Livinstone",,ZM,1748.733S,02549.200E,991.0m,5,100,3000.0m,118.100,"Flugplatz"
-"Luanshya Zambia",,ZM,1308.500S,02825.500E,1250.0m,2,100,1260.0m,,"Flugplatz"
-"Lukuzi",,ZM,1249.000S,03204.000E,549.0m,2,100,1200.0m,,"Flugplatz"
-"Lusaka",,ZM,1519.600S,02827.400E,1152.0m,5,100,3950.0m,118.100,"Flugplatz"
-"Mansa",,ZM,1108.000S,02852.000E,1250.0m,5,100,1720.0m,118.300,"Flugplatz"
-"Mfuwe",,ZM,1316.000S,03156.000E,561.0m,5,090,2210.0m,120.700,"Flugplatz"
-"Mufulira",,ZM,1234.000S,02817.000E,1326.0m,2,090,1260.0m,,"Flugplatz"
-"Ndola",,ZM,1259.700S,02839.900E,1271.0m,5,100,2510.0m,118.300,"Flugplatz"
-"Solwesi",,ZM,1210.000S,02622.000E,1387.0m,5,090,1350.0m,118.300,"Flugplatz"
+"Anuradhapura Anu",,LK,0818.000N,08025.717E,101.0m,5,050,1560.0m,120.500,"Flugplatz"
+"Batticaloa Batti",,LK,0742.217N,08140.783E,3.0m,5,060,1050.0m,118.100,"Flugplatz"
+"Bentota",,LK,0623.267N,08000.600E,8.0m,5,040,600.0m,,"Flugplatz"
+"Gal Oya Amparai",,LK,0720.217N,08137.817E,49.0m,5,070,1110.0m,118.100,"Flugplatz"
+"Kankesanturai Ja",,LK,0947.517N,08003.783E,9.0m,5,050,2300.0m,124.300,"Flugplatz"
+"Katunayake Banda",,LK,0710.817N,07953.117E,9.0m,5,040,3330.0m,118.700,"Flugplatz"
+"Koggala",,LK,0559.883N,08019.217E,5.0m,5,040,1400.0m,,"Flugplatz"
+"Polonnaruwa",,LK,0802.750N,08059.167E,97.0m,2,,,,"Flugplatz"
+"Ratmalana Colomb",,LK,0649.383N,07953.100E,6.0m,5,040,1840.0m,119.100,"Flugplatz"
+"Sigiriya",,LK,0757.950N,08043.467E,400.0m,5,040,600.0m,,"Flugplatz"
+"Trincomalee Chin",,LK,0832.400N,08110.067E,3.0m,5,060,2390.0m,126.200,"Flugplatz"
+"Wirawila Wirawil",,LK,0615.017N,08114.117E,15.0m,5,070,1230.0m,118.100,"Flugplatz"
 *
 * *****************************************************************************
 * Put external downloaded data below. 

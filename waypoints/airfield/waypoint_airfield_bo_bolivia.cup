@@ -1,5 +1,5 @@
 * ##################################################################################################################################################################################################
-* Airfields BO (Bolivia)
+* Airfield BO (Bolivia)
 * Format: SeeYou Waypoint format (.cup)
 * $Author$
 * $Date$
@@ -52,7 +52,7 @@
 * *****************************************************************************
 * Put external downloaded data below. 
 * Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
-* Data Source: 
-* Data Download Date: 
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
 * *****************************************************************************
 *

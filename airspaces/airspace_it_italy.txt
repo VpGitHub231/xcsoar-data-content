@@ -16,7 +16,7 @@
 * *****************************************************************************
 * Put external downloaded data below. 
 * Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
-* Data Source: https://soaring.guenther-eichhorn.com/Airspace/IT/Italia_May2018.txt
+* Data Source: https://soaring.guenther-eichhorn.com/Airspace/IT/
 * Data Download Date: 2021-04-20
 * *****************************************************************************
 *

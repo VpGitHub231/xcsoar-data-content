@@ -126,7 +126,7 @@ LF_Wuerzbach2,AL A05 W,de,4843.167N,00838.267E,686.0m,3,100,300.0m,,"Würzbach I
 * *****************************************************************************
 * Put external downloaded data below. 
 * Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
-* Data Source: 
-* Data Download Date: 
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
 * *****************************************************************************
 *

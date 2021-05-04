@@ -1,0 +1,234 @@
+#!/bin/bash
+
+# Todo:
+# • Add further waypoints when they are converted to new file name format
+# Airfields are quite complete, when adding turnpoints or outlanding waypoints
+# for an already existing country, have a look into the IF block of this country and
+# uncomment the line for the new added file
+
+# Include waypoints (define here which waypoints should be included into output file)
+# set variable to "true" for including or "false" for not including waypoints
+# AllWaypoints="true" overrides all other settings and includes all waypoints into output (be carefull,
+# this will result in a very big file!)
+# For a finer selection of special waypoints, add or comment lines in SpecialWaypoints IF block
+
+AllWaypoints="false"
+SpecialWaypoints="false"
+
+AF_Afghanistan="false"
+AL_Albania="false"
+AT_Austria="true"
+BA_BosniaHerzegovina="false"
+BG_Bulgaria="false"
+BO_Bolivia="false"
+BW_Botswana="false"
+CH_Switzerland="false"
+CN_China="false"
+CY_Cyprus="false"
+CZ_Czechia="false"
+DE_Germany="false"
+DO_DominicanRepublic="false"
+DZ_Algeria="false"
+EE_Estonia="false"
+EG_Egypt="false"
+GR_Greece="false"
+HR_Croatia="false"
+ID_Indonesia="false"
+IE_Ireland="false"
+IL_Israel="false"
+IQ_Iraq="false"
+IR_Iran="false"
+LI_Liechtenstein="false"
+LK_SriLanka="false"
+LT_Lithuania="false"
+LU_Luxembourg="false"
+LV_Latvia="false"
+MA_Morocco="false"
+MD_Moldova="false"
+MM_Myanmar="false"
+MN_Mongolia="false"
+MT_Malta="false"
+MW_Malawi="false"
+MX_Mexico="false"
+MY_Malaysia="false"
+MZ_Mozambique="false"
+NA_Namibia="false"
+NE_Niger="false"
+OM_Oman="false"
+PK_Pakistan="false"
+RO_Romania="false"
+RS_Serbia="false"
+RU_RussianFederation="false"
+SD_Sudan="false"
+SI_Slovenia="false"
+TH_Thailand="false"
+TN_Tunisia="false"
+TR_Turkey="false"
+UZ_Uzbekistan="false"
+ZM_Zambia="false"
+ZW_Zimbabwe="false"
+
+# Do all the program stuff, nothing to change anymore down below  (except special waypoints)
+
+clear
+echo "Waypoint combining script"
+echo "V. Pippan (https://www.vpippan.at | webmaster@vpippan.at)"
+echo "CC-BY-SA 2021"
+
+WaypointString=""
+OutputFileNameString="waypoint_"
+
+if $SpecialWaypoints || $AllWaypoints
+then
+  #WaypointString+="../waypoints/special/waypoint_special_.cup "
+  #OutputFileNameString+="special_"
+  #echo "Adding waypoints Special"
+fi
+
+if $AF_Afghanistan || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_af_afghanistan.cup "
+  #WaypointString+="../waypoints/outlanding/waypoint_outlanding_af_afghanistan.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_af_afghanistan.cup "
+  OutputFileNameString+="af_"
+  echo "Adding waypoints Afghanistan"
+fi
+if $AL_Albania || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_al_albania.cup "
+  #WaypointString+="../waypoints/outlanding/waypoint_outlanding_al_albania.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_al_albania.cup "
+  OutputFileNameString+="al_"
+  echo "Adding waypoints Albania"
+fi
+if $AT_Austria || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_at_austria.cup "
+  WaypointString+="../waypoints/outlanding/waypoint_outlanding_at_austria.cup "
+  WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_at_austria.cup "
+  OutputFileNameString+="at_"
+  echo "Adding waypoints Austria"
+fi
+if $BA_BosniaHerzegovina || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_ba_bosniaherzegovina.cup "
+  #WaypointString+="../waypoints/outlanding/waypoint_outlanding_ba_bosniaherzegovina.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_ba_bosniaherzegovina.cup "
+  OutputFileNameString+="ba_"
+  echo "Adding waypoints Bosnia Herzegovina"
+fi
+if $BG_Bulgaria || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_bg_bulgaria.cup "
+  WaypointString+="../waypoints/outlanding/waypoint_outlanding_bg_bulgaria.cup "
+  WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_bg_bulgaria.cup "
+  OutputFileNameString+="bg_"
+  echo "Adding waypoints Bulgaria"
+fi
+if $BO_Bolivia || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_bo_bolivia.cup "
+  #WaypointString+="../waypoints/outlanding/waypoint_outlanding_bo_bolivia.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_bo_bolivia.cup "
+  OutputFileNameString+="bo_"
+  echo "Adding waypoints Bolivia"
+fi
+if $BW_Botswana || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_bw_botswana.cup "
+  #WaypointString+="../waypoints/outlanding/waypoint_outlanding_bw_botswana.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_bw_botswana.cup "
+  OutputFileNameString+="bw_"
+  echo "Adding waypoints Botswana"
+fi
+if $CH_Switzerland || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_ch_switzerland.cup "
+  WaypointString+="../waypoints/outlanding/waypoint_outlanding_ch_switzerland.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_ch_switzerland.cup "
+  OutputFileNameString+="ch_"
+  echo "Adding waypoints Switzerland"
+fi
+if $CN_China || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_cn_china.cup "
+  #WaypointString+="../waypoints/outlanding/waypoint_outlanding_cn_china.cup "
+  WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_cn_china.cup "
+  OutputFileNameString+="cn_"
+  echo "Adding waypoints China"
+fi
+if $CY_Cyprus || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_cy_cyprus.cup "
+  #WaypointString+="../waypoints/outlanding/waypoint_outlanding_cy_cyprus.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_cy_cyprus.cup "
+  OutputFileNameString+="cy_"
+  echo "Adding waypoints Cyprus"
+fi
+if $CZ_Czechia || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_cz_czechia.cup "
+  WaypointString+="../waypoints/outlanding/waypoint_outlanding_cz_czechia.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_cz_czechia.cup "
+  OutputFileNameString+="cz_"
+  echo "Adding waypoints Czechia"
+fi
+if $DE_Germany || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_de_germany.cup "
+  WaypointString+="../waypoints/outlanding/waypoint_outlanding_de_germany.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_de_germany.cup "
+  OutputFileNameString+="de_"
+  echo "Adding waypoints Germany"
+fi
+if $DO_DominicanRepublic || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_do_dominicanrepublic.cup "
+  #WaypointString+="../waypoints/outlanding/waypoint_outlanding_do_dominicanrepublic.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_do_dominicanrepublic.cup "
+  OutputFileNameString+="do_"
+  echo "Adding waypoints Dominican Republic"
+fi
+if $DZ_Algeria|| $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_dz_algeria.cup "
+  #WaypointString+="../waypoints/outlanding/waypoint_outlanding_dz_algeria.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_dz_algeria.cup "
+  OutputFileNameString+="dz_"
+  echo "Adding waypoints Algeria"
+fi
+if $EE_Estonia || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_ee_estonia.cup "
+  #WaypointString+="../waypoints/outlanding/waypoint_outlanding_ee_estonia.cup "
+  WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_ee_estonia.cup "
+  OutputFileNameString+="ee_"
+  echo "Adding waypoints Estonia"
+fi
+if $EG_Egypt || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_eg_egypt.cup "
+  #WaypointString+="../waypoints/outlanding/waypoint_outlanding_eg_egypt.cup "
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_eg_egypt.cup "
+  OutputFileNameString+="eg_"
+  echo "Adding waypoints Egypt"
+fi
+if $GR_Greece || $AllWaypoints
+then
+  WaypointString+="../waypoints/airfield/waypoint_airfield_gr_greece.cup "
+  WaypointString+="../waypoints/outlanding/waypoint_outlanding_gr_greece.cup "
+  WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_gr_greece.cup "
+  OutputFileNameString+="gr_"
+  echo "Adding waypoints Greece"
+fi
+if $AllWaypoints
+then
+  OutputFileNameString="waypoints_all_"
+fi
+
+# for testing (can be removed later)
+#echo $WaypointString
+#echo $OutputFileNameString
+
+# concatenate all files
+cat $WaypointString > ../$OutputFileNameString`date +%4Y%m%d`.cup

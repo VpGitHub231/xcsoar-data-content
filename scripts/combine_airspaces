@@ -1,86 +1,113 @@
 #!/bin/bash
 
 # Todo:
-# • Create same script for waypoint files
-# • Add licensing information?
 # • Add further airspaces when they are converted to new file name format
 
 # Include airspaces (define here which airspaces should be included into output file)
 # set variable to "true" for including or "false" for not including an airspace
-# AllAirSpaces="true" overrides all other settings and includes all airspaces into output
+# AllAirspaces="true" overrides all other settings and includes all airspaces into output (be carefull,
+# this will result in a very big file!)
+# For a finer selection of special airspaces, add or comment lines in SpecialAirspaces IF block
 
-AllAirSpaces="false"
+AllAirspaces="false"
+SpecialAirspace="false"
+
 AT_Austria="true"
 CA_Canada="false"
 CH_Switzerland="false"
 CZ_Czechia="false"
 DE_Germany="false"
 FI_Finland="false"
-GB_UnitedKingDom="false"
+GB_UnitedKingdom="false"
 IT_Italy="false"
+NL_Netherlands="false"
 SK_Slovakia="false"
 
-# Define output file name (should be done automaticaly later on)
-#OutputFileName="airspace_all_combined.txt"
+# Do all the program stuff, nothing to change anymore down below (except special airspaces)
 
-# Do all the program stuff, nothing to change anymore down below
+clear
+echo "Airspace combining script"
+echo "V. Pippan (https://www.vpippan.at | webmaster@vpippan.at)"
+echo "CC-BY-SA 2021"
 
-AirSpaceString=""
+AirspaceString=""
 OutputFileNameString="airspace_"
 
-if $AT_Austria || $AllAirSpaces
+if $SpecialAirspace || $AllAirspaces
 then
-  AirSpaceString+="../airspaces/airspace_at_austria.txt "
+  #AirspaceString+="../airspaces/special/airspace_special_.txt "
+  #OutputFileNameString+="special_"
+  #echo "Adding airspaces Special"
+fi
+
+if $AT_Austria || $AllAirspaces
+then
+  AirspaceString+="../airspaces/airspace_at_austria.txt "
   OutputFileNameString+="at_"
+  echo "Adding airspace Austria"
 fi
-if $CA_Canada || $AllAirSpaces
+if $CA_Canada || $AllAirspaces
 then
-  AirSpaceString+="../airspaces/airspace_ca_canada.txt "
+  AirspaceString+="../airspaces/airspace_ca_canada.txt "
   OutputFileNameString+="ca_"
+  echo "Adding airspace Canada"
 fi
-if $CH_Switzerland || $AllAirSpaces
+if $CH_Switzerland || $AllAirspaces
 then
-  AirSpaceString+="../airspaces/airspace_ch_switzerland.txt "
+  AirspaceString+="../airspaces/airspace_ch_switzerland.txt "
   OutputFileNameString+="ch_"
+  echo "Adding airspace Switzerland"
 fi
-if $CZ_Czechia || $AllAirSpaces
+if $CZ_Czechia || $AllAirspaces
 then
-  AirSpaceString+="../airspaces/airspace_cz_czechia.txt "
+  AirspaceString+="../airspaces/airspace_cz_czechia.txt "
   OutputFileNameString+="cz_"
+  echo "Adding airspace Czechia"
 fi
-if $DE_Germany || $AllAirSpaces
+if $DE_Germany || $AllAirspaces
 then
-  AirSpaceString+="../airspaces/airspace_de_germany.txt "
+  AirspaceString+="../airspaces/airspace_de_germany.txt "
   OutputFileNameString+="de_"
+  echo "Adding airspace Germany"
 fi
-if $FI_Finland || $AllAirSpaces
+if $FI_Finland || $AllAirspaces
 then
-  AirSpaceString+="../airspaces/airspace_fi_finland.txt "
+  AirspaceString+="../airspaces/airspace_fi_finland.txt "
   OutputFileNameString+="fi_"
+  echo "Adding airspace Finland"
 fi
-if $GB_UnitedKingDom || $AllAirSpaces
+if $GB_UnitedKingdom || $AllAirspaces
 then
-  AirSpaceString+="../airspaces/airspace_gb_unitedkingdom.txt "
+  AirspaceString+="../airspaces/airspace_gb_unitedkingdom.txt "
   OutputFileNameString+="gb_"
+  echo "Adding airspace United Kingdom"
 fi
-if $IT_Italy || $AllAirSpaces
+if $IT_Italy || $AllAirspaces
 then
-  AirSpaceString+="../airspaces/airspace_it_italy.txt "
+  AirspaceString+="../airspaces/airspace_it_italy.txt "
   OutputFileNameString+="it_"
+  echo "Adding airspace Italy"
 fi
-if $SK_Slovakia || $AllAirSpaces
+if $NL_Netherlands || $AllAirspaces
 then
-  AirSpaceString+="../airspaces/airspace_sk_slovakia.txt "
-  OutputFileNameString+="sk_"
+  AirspaceString+="../airspaces/airspace_nl_netherlands.txt "
+  OutputFileNameString+="nl_"
+  echo "Adding airspace Netherlands"
 fi
-if $AllAirSpaces
+if $SK_Slovakia || $AllAirspaces
+then
+  AirspaceString+="../airspaces/airspace_sk_slovakia.txt "
+  OutputFileNameString+="sk_"
+  echo "Adding airspace Slovakia"
+fi
+if $AllAirspaces
 then
   OutputFileNameString="airspace_all_"
 fi
 
 # for testing (can be removed later)
-#echo $AirSpaceString
+#echo $AirspaceString
 #echo $OutputFileNameString
 
 # concatenate all files
-cat $AirSpaceString > ../$OutputFileNameString`date +%4Y%m%d`.txt
+cat $AirspaceString > ../$OutputFileNameString`date +%4Y%m%d`.txt

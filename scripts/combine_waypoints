@@ -2,6 +2,9 @@
 
 # Todo:
 # • Add further waypoints when they are converted to new file name format
+# • Put flags for country selection in an external file and call it via command line argument -> multiple settings with different names possible without changing the main script
+#	Problem with SpecialWaypoints and EventWaypoints IF blocks remains
+
 # Airfields are quite complete, when adding turnpoints or outlanding waypoints
 # for an already existing country, have a look into the IF block of this country and
 # uncomment the line for the new added file
@@ -13,7 +16,8 @@
 # For a finer selection of special waypoints, add or comment lines in SpecialWaypoints IF block
 
 AllWaypoints="false"
-SpecialWaypoints="false"
+EventWaypoints="false"
+SpecialWaypoints="true"
 
 AF_Afghanistan="false"
 AL_Albania="false"
@@ -22,11 +26,11 @@ BA_BosniaHerzegovina="false"
 BG_Bulgaria="false"
 BO_Bolivia="false"
 BW_Botswana="false"
-CH_Switzerland="false"
+CH_Switzerland="true"
 CN_China="false"
 CY_Cyprus="false"
-CZ_Czechia="false"
-DE_Germany="false"
+CZ_Czechia="true"
+DE_Germany="true"
 DO_DominicanRepublic="false"
 DZ_Algeria="false"
 EE_Estonia="false"
@@ -38,7 +42,7 @@ IE_Ireland="false"
 IL_Israel="false"
 IQ_Iraq="false"
 IR_Iran="false"
-LI_Liechtenstein="false"
+LI_Liechtenstein="true"
 LK_SriLanka="false"
 LT_Lithuania="false"
 LU_Luxembourg="false"
@@ -60,7 +64,7 @@ RO_Romania="false"
 RS_Serbia="false"
 RU_RussianFederation="false"
 SD_Sudan="false"
-SI_Slovenia="false"
+SI_Slovenia="true"
 TH_Thailand="false"
 TN_Tunisia="false"
 TR_Turkey="false"
@@ -78,11 +82,19 @@ echo "CC-BY-SA 2021"
 WaypointString=""
 OutputFileNameString="waypoint_"
 
+if $EventWaypoints || $AllWaypoints
+then
+  #WaypointString+="../waypoints/turnpoint/waypoint_turnpoint_event_.cup "
+  #OutputFileNameString+="event_"
+  #echo "Adding waypoints Event"
+fi
+
 if $SpecialWaypoints || $AllWaypoints
 then
   #WaypointString+="../waypoints/special/waypoint_special_.cup "
-  #OutputFileNameString+="special_"
-  #echo "Adding waypoints Special"
+  WaypointString+="../waypoints/special/waypoint_special_thermalinformationmap.cup "
+  OutputFileNameString+="special_"
+  echo "Adding waypoints Special"
 fi
 
 if $AF_Afghanistan || $AllWaypoints

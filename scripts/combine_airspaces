@@ -2,6 +2,8 @@
 
 # Todo:
 # • Add further airspaces when they are converted to new file name format
+# • Put flags for country selection in an external file and call it via command line argument -> multiple settings with different names possible without changing the main script
+#	Problem with SpecialAirspace IF block remains
 
 # Include airspaces (define here which airspaces should be included into output file)
 # set variable to "true" for including or "false" for not including an airspace
@@ -14,14 +16,14 @@ SpecialAirspace="false"
 
 AT_Austria="true"
 CA_Canada="false"
-CH_Switzerland="false"
-CZ_Czechia="false"
-DE_Germany="false"
+CH_Switzerland="true"
+CZ_Czechia="true"
+DE_Germany="true"
 FI_Finland="false"
 GB_UnitedKingdom="false"
-IT_Italy="false"
+IT_Italy="true"
 NL_Netherlands="false"
-SK_Slovakia="false"
+SK_Slovakia="true"
 
 # Do all the program stuff, nothing to change anymore down below (except special airspaces)
 
@@ -36,8 +38,9 @@ OutputFileNameString="airspace_"
 if $SpecialAirspace || $AllAirspaces
 then
   #AirspaceString+="../airspaces/special/airspace_special_.txt "
-  #OutputFileNameString+="special_"
-  #echo "Adding airspaces Special"
+  AirspaceString+="../airspaces/special/airspace_special_thermalinformationmap.txt "
+  OutputFileNameString+="special_"
+  echo "Adding airspaces Special"
 fi
 
 if $AT_Austria || $AllAirspaces

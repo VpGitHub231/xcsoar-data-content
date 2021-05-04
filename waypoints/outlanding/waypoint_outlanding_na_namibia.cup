@@ -1,0 +1,91 @@
+* ##################################################################################################################################################################################################
+* Outlanding NA (Namibia)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Okahandja Airstr",,NA,2200.833S,01653.850E,1317.0m,3,,1200.0m,124.800,"Landefeld"
+"Okosongoro Airpo",,NA,2107.083S,01605.150E,1485.0m,3,,1070.0m,123.500,"Landefeld"
+"Afro Venture 30",,NA,2448.200S,01553.467E,868.0m,3,,1500.0m,124.800,"Landefeld"
+"Aminuis Corridor",,NA,2330.383S,01953.467E,1278.0m,3,,1500.0m,124.800,"Landefeld"
+"Aminuis Airstrip",,NA,2339.350S,01921.100E,1228.0m,3,,700.0m,,"Landefeld"
+"Aminuis Pan 30",,NA,2336.433S,01954.950E,1242.0m,3,,1000.0m,,"Landefeld"
+"Anib Lodge",,NA,2426.083S,01806.267E,1204.0m,3,,800.0m,124.800,"Landefeld"
+"Aranos Airstrip",,NA,2407.700S,01906.900E,1190.0m,3,,800.0m,124.800,"Landefeld"
+"Aranos Pan 20+",,NA,2406.567S,01917.300E,1260.0m,3,,600.0m,,"Landefeld"
+"Aroab",,NA,2646.567S,01937.983E,1000.0m,3,,1200.0m,124.800,"Landefeld"
+"Beenbreek",,NA,2329.000S,01757.000E,1314.0m,3,,1000.0m,124.800,"Landefeld"
+"Bitterwasser 05",,NA,2353.367S,01759.017E,1265.0m,3,,2800.0m,123.600,"Landefeld"
+"Bitterwasser 09",,NA,2351.983S,01758.967E,1265.0m,3,,1400.0m,123.600,"Landefeld"
+"Bitterwasser 13",,NA,2352.317S,01758.883E,1265.0m,3,,3000.0m,123.600,"Landefeld"
+"Buellsport",,NA,2408.933S,01622.450E,1394.0m,3,,1300.0m,124.800,"Landefeld"
+"Derm East Pan 25",,NA,2340.000S,01813.000E,1286.0m,3,,900.0m,,"Landefeld"
+"Eirup 25",,NA,2413.917S,01824.550E,1195.0m,3,,800.0m,124.800,"Landefeld"
+"Epacha Lodge",,NA,1925.767S,01540.583E,1182.0m,3,,1850.0m,124.800,"Landefeld"
+"Epikuro 25+",,NA,2136.567S,01924.333E,1412.0m,3,,1100.0m,124.800,"Landefeld"
+"Gochas Auob Lodg",,NA,2449.317S,01845.733E,1150.0m,3,,1400.0m,124.800,"Landefeld"
+"Geluk Kuala Lodg",,NA,2437.783S,01556.367E,857.0m,3,,1200.0m,124.800,"Landefeld"
+"Gochas Airstrip",,NA,2451.383S,01849.067E,1132.0m,3,,900.0m,124.800,"Landefeld"
+"Gravenstein 20+",,NA,2327.467S,01729.683E,1302.0m,3,,800.0m,124.800,"Landefeld"
+"Georgia Peter Sc",,NA,2316.833S,01838.033E,1309.0m,3,,1000.0m,124.800,"Landefeld"
+"Hannover 25",,NA,2321.717S,01748.233E,1359.0m,3,,900.0m,124.800,"Landefeld"
+"Helmering Airstr",,NA,2551.700S,01648.783E,1403.0m,3,,1300.0m,124.800,"Landefeld"
+"Hobas 20+",,NA,2737.733S,01741.733E,705.0m,3,,1000.0m,124.800,"Landefeld"
+"Hetaku Game Lodg",,NA,2158.933S,01830.400E,1563.0m,3,,1100.0m,124.800,"Landefeld"
+"Judaea",,NA,2344.750S,01805.467E,1285.0m,3,,2000.0m,,"Landefeld"
+"Julia 25",,NA,2258.200S,01811.633E,1407.0m,3,,1100.0m,124.800,"Landefeld"
+"Kamombombe E 25+",,NA,2136.883S,01603.333E,1250.0m,3,,1400.0m,124.800,"Landefeld"
+"Kansimba 25+",,NA,2202.683S,01610.717E,1249.0m,3,,600.0m,124.800,"Landefeld"
+"Kentani Pan 20+",,NA,2351.733S,01751.433E,1236.0m,3,,600.0m,124.800,"Landefeld"
+"Kentucky",,NA,2244.583S,01918.800E,1405.0m,3,,800.0m,124.800,"Landefeld"
+"Kerweder 25+",,NA,2457.783S,01600.800E,970.0m,3,,1500.0m,124.800,"Landefeld"
+"Klein Aub Pan 20",,NA,2346.833S,01638.700E,1550.0m,3,,500.0m,,"Landefeld"
+"Kalkrand Pan 25+",,NA,2403.733S,01735.817E,1226.0m,3,,1700.0m,,"Landefeld"
+"Louwater Pan 25+",,NA,2316.533S,01743.517E,1387.0m,3,,1800.0m,124.800,"Landefeld"
+"Louwater S M7 20",,NA,2315.517S,01758.317E,1200.0m,3,,1000.0m,124.800,"Landefeld"
+"Maltah Kalkr 5 2",,NA,2406.650S,01733.850E,1256.0m,3,,600.0m,,"Landefeld"
+"Maltah Kalkr 6 S",,NA,2407.517S,01733.467E,1254.0m,3,,600.0m,,"Landefeld"
+"Maltah Kalkr 7 S",,NA,2420.200S,01720.433E,1289.0m,3,,600.0m,,"Landefeld"
+"Maltah Kalkr 10",,NA,2431.883S,01711.067E,1256.0m,3,,600.0m,,"Landefeld"
+"Mbela 20+",,NA,2344.550S,01754.700E,1288.0m,3,,400.0m,124.800,"Landefeld"
+"Meier 1 25+",,NA,2453.467S,01612.017E,1480.0m,3,,1400.0m,124.800,"Landefeld"
+"Le Mirage Desert",,NA,2440.417S,01547.500E,732.0m,3,,1800.0m,124.800,"Landefeld"
+"Moscow 20+",,NA,2511.000S,01915.417E,1061.0m,3,,1100.0m,124.800,"Landefeld"
+"Neuloore 20+",,NA,2339.500S,01823.150E,1271.0m,3,,1000.0m,124.800,"Landefeld"
+"Oha Kaua Otjiwa",,NA,2045.100S,01647.917E,1561.0m,3,,1700.0m,124.800,"Landefeld"
+"Okanduka",,NA,2222.133S,01619.883E,,3,,940.0m,124.800,"Landefeld"
+"Okonjima",,NA,2051.983S,01638.367E,1628.0m,3,,1300.0m,,"Landefeld"
+"Omawewozon",,NA,2135.683S,01925.000E,1403.0m,3,,900.0m,124.800,"Landefeld"
+"Omaruru Game Lod",,NA,2119.600S,01605.250E,1288.0m,3,,900.0m,,"Landefeld"
+"Onjossa 20+",,NA,2210.117S,01618.083E,1259.0m,3,,1300.0m,,"Landefeld"
+"Otjisasu 25",,NA,2155.917S,01708.433E,1457.0m,3,,1100.0m,129.975,"Landefeld"
+"Outjo Fyoj 20+",,NA,2004.517S,01607.483E,1321.0m,3,,1880.0m,125.600,"Landefeld"
+"Rehoboth Airstri",,NA,2318.550S,01702.300E,1485.0m,3,,1800.0m,124.800,"Landefeld"
+"Rooisand 30",,NA,2317.483S,01606.517E,1137.0m,3,,1140.0m,124.700,"Landefeld"
+"Rostock Ritz 25+",,NA,2332.450S,01550.550E,892.0m,3,,1200.0m,124.700,"Landefeld"
+"Sesriem Airstrip",,NA,2430.767S,01544.800E,748.0m,3,,2000.0m,124.800,"Landefeld"
+"Solitaire 20",,NA,2354.033S,01600.283E,1072.0m,3,,1100.0m,124.800,"Landefeld"
+"Sossusvlei Lodge",,NA,2429.367S,01548.917E,762.0m,3,,1200.0m,124.800,"Landefeld"
+"Strate",,NA,2358.100S,01832.950E,1224.0m,3,,700.0m,124.800,"Landefeld"
+"Swartfontein Lod",,NA,2343.717S,01611.750E,1805.0m,3,,800.0m,124.800,"Landefeld"
+"Tivoli 20+",,NA,2327.700S,01800.867E,1337.0m,3,,1500.0m,124.800,"Landefeld"
+"Tsondab Airport",,NA,2353.483S,01552.033E,1100.0m,3,,1100.0m,124.800,"Landefeld"
+"Wohlzufrieden 20",,NA,2411.433S,01809.667E,1207.0m,3,,1000.0m,124.800,"Landefeld"
+"Witvlei",,NA,2224.317S,01827.567E,1462.0m,3,,1200.0m,124.800,"Landefeld"
+"Wolwedans 20+",,NA,2506.833S,01559.750E,900.0m,3,,1250.0m,124.800,"Landefeld"
+"Intu Africa 20+",,NA,2405.050S,01757.017E,1223.0m,3,,1000.0m,124.800,"Landefeld"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

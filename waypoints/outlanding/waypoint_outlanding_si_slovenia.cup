@@ -1,0 +1,78 @@
+* ##################################################################################################################################################################################################
+* Outlanding SI (Slovenia)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Ajsevica Ul",,SI,4557.250N,01342.817E,62.0m,3,030,200.0m,123.500,"Landefeld"
+"Belinc Kozje",,SI,4605.000N,01533.000E,288.0m,3,140,400.0m,123.500,"Landefeld"
+"Brezorica Ul",,SI,4601.000N,01423.833E,295.0m,3,140,400.0m,123.500,"Landefeld"
+"Cepovan Outl",,SI,4602.117N,01347.000E,587.0m,3,020,200.0m,,"Landefeld"
+"Cresnjevec Ul ?",,SI,4621.583N,01536.367E,251.0m,3,160,300.0m,,"Landefeld"
+"Crnotice Ul",,SI,4533.433N,01354.783E,440.0m,3,120,300.0m,135.000,"Landefeld"
+"Divaca Kraski Ul",,SI,4540.917N,01400.467E,434.0m,3,120,400.0m,123.500,"Landefeld"
+"Dolenja Vas",,SI,4612.583N,01413.433E,420.0m,3,,,,"Landefeld"
+"Dol Ul",,SI,4605.000N,01439.750E,264.0m,3,090,400.0m,123.500,"Landefeld"
+"Gorica Ul",,SI,4642.000N,01608.683E,200.0m,3,010,400.0m,123.500,"Landefeld"
+"Grosuplje Paproc",,SI,4557.567N,01439.933E,345.0m,3,130,400.0m,123.500,"Landefeld"
+"Gruca Sentjerney",,SI,4550.700N,01522.400E,165.0m,3,050,400.0m,,"Landefeld"
+"Hauptmanca",,SI,4559.817N,01431.483E,288.0m,3,030,180.0m,123.500,"Landefeld"
+"Imeno",,SI,4607.767N,01536.317E,189.0m,3,030,400.0m,123.500,"Landefeld"
+"Jezersko",,SI,4624.417N,01430.483E,909.0m,3,180,300.0m,,"Landefeld"
+"Jurkovic ?",,SI,4634.100N,01546.067E,245.0m,3,120,400.0m,123.500,"Landefeld"
+"Kalobje",,SI,4611.283N,01523.533E,438.0m,3,080,400.0m,123.500,"Landefeld"
+"Kobarid",,SI,4614.783N,01332.450E,251.0m,3,080,250.0m,,"Landefeld"
+"Konjice Senozet",,SI,4618.500N,01529.300E,273.0m,3,150,400.0m,123.500,"Landefeld"
+"Kostrivnica ?",,SI,4615.000N,01535.000E,255.0m,3,040,400.0m,123.500,"Landefeld"
+"Kranskagora",,SI,4629.333N,01346.733E,830.0m,3,090,500.0m,,"Landefeld"
+"Lastovka",,SI,4624.400N,01557.150E,218.0m,3,110,400.0m,123.500,"Landefeld"
+"Leskovec Ul",,SI,4555.500N,01531.250E,204.0m,3,,,,"Landefeld"
+"Libelice Ulm ?",,SI,4637.417N,01457.317E,390.0m,3,130,400.0m,123.500,"Landefeld"
+"Litija Zavrstnik",,SI,4602.667N,01449.200E,278.0m,3,100,400.0m,123.500,"Landefeld"
+"Logarska",,SI,4625.000N,01438.500E,743.0m,3,040,250.0m,,"Landefeld"
+"Mali Kamen Topol",,SI,4601.733N,01530.583E,300.0m,3,120,400.0m,123.500,"Landefeld"
+"Marina Gradec Ul",,SI,4608.900N,01514.000E,215.0m,3,100,400.0m,123.500,"Landefeld"
+"Maric Norsinci",,SI,4640.933N,01612.233E,188.0m,3,180,400.0m,123.500,"Landefeld"
+"Marof Cerknica",,SI,4546.667N,01423.300E,552.0m,3,120,350.0m,123.500,"Landefeld"
+"Martuljek West",,SI,4628.933N,01351.133E,740.0m,3,290,400.0m,,"Landefeld"
+"Mojstrana",,SI,4627.900N,01355.417E,671.0m,3,300,300.0m,,"Landefeld"
+"Mostje Lendava",,SI,4635.950N,01625.917E,161.0m,3,150,350.0m,123.500,"Landefeld"
+"Novi Lazi Kocevs",,SI,4534.233N,01451.817E,561.0m,3,180,400.0m,123.500,"Landefeld"
+"Pilstanj Ul",,SI,4605.417N,01533.000E,390.0m,3,,,,"Landefeld"
+"Pivka Ul Petelin",,SI,4541.500N,01413.500E,535.0m,3,060,400.0m,123.500,"Landefeld"
+"Podpec Ul",,SI,4558.417N,01424.783E,286.0m,3,080,550.0m,135.000,"Landefeld"
+"Pozar Kovevje Ul",,SI,4539.933N,01453.400E,480.0m,3,010,400.0m,123.500,"Landefeld"
+"Prilozje Metlica",,SI,4535.400N,01515.683E,180.0m,3,040,400.0m,123.500,"Landefeld"
+"Ratece2Wiese",,SI,4629.367N,01343.450E,870.0m,3,010,600.0m,,"Landefeld"
+"Ratece Wiese",,SI,4629.533N,01343.417E,870.0m,3,180,300.0m,,"Landefeld"
+"Ribnica Ul",,SI,4545.500N,01443.500E,501.0m,3,,,,"Landefeld"
+"Sempas Ul",,SI,4556.150N,01344.017E,90.0m,3,050,400.0m,,"Landefeld"
+"Sentjanz Ul X ?",,SI,4600.583N,01511.067E,330.0m,3,140,400.0m,123.500,"Landefeld"
+"Sentvid Pri Stic",,SI,4556.650N,01451.300E,315.0m,3,140,400.0m,123.500,"Landefeld"
+"Skofljica Ul ?",,SI,4559.000N,01432.500E,332.0m,3,,,,"Landefeld"
+"Smartno",,SI,4613.217N,01444.467E,480.0m,3,090,300.0m,,"Landefeld"
+"Stol Kamnik Ul",,SI,4612.000N,01434.200E,350.0m,3,120,400.0m,123.500,"Landefeld"
+"Tolmin",,SI,4611.317N,01342.300E,188.0m,3,130,400.0m,,"Landefeld"
+"Trebnje Ul",,SI,4554.700N,01500.433E,265.0m,3,020,400.0m,123.500,"Landefeld"
+"Verzej Ljutomer",,SI,4634.417N,01611.750E,179.0m,3,040,400.0m,123.500,"Landefeld"
+"Vince Sadrazica",,SI,4545.000N,01441.000E,514.0m,3,070,400.0m,,"Landefeld"
+"Vrhnika Ul",,SI,4557.500N,01421.250E,321.0m,3,080,400.0m,123.500,"Landefeld"
+"Wocheiner See",,SI,4617.100N,01353.100E,536.0m,3,070,300.0m,,"Landefeld"
+"Zabovci Ptuj Ul",,SI,4624.167N,01555.367E,222.0m,3,080,400.0m,123.500,"Landefeld"
+"Zagorje Ob Save",,SI,4608.600N,01500.683E,331.0m,3,040,400.0m,123.500,"Landefeld"
+"Zg Kostrivaro Ul",,SI,4615.750N,01533.250E,424.0m,3,,,,"Landefeld"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

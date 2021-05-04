@@ -1,0 +1,52 @@
+* ##################################################################################################################################################################################################
+* Turnpoint TR (Turkey)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Aksehir XRoad B3",,TR,3822.383N,03126.267E,980.0m,17,,,,"XROAD B30"
+"Aslanapa Crossro",,TR,3913.300N,02951.717E,1028.0m,17,,,,"CROSSROAD"
+"Banaz Crossroad",,TR,3844.417N,02944.617E,940.0m,17,,,,"CROSSROAD"
+"Bayat Crossroad",,TR,3858.317N,03055.933E,1028.0m,17,,,,"CROSSROAD"
+"Beylikova B2626X",,TR,3940.900N,03113.350E,760.0m,14,,,,"B2626XPOR"
+"Bolvadin Stadium",,TR,3843.033N,03103.133E,980.0m,1,,,,"STADIUM"
+"Calkoey Bridge V",,TR,3855.783N,03003.500E,1063.0m,14,,,,"BRIDGE VI"
+"Canakkale Faehra",,TR,4009.050N,02624.100E,3.0m,1,,,,"FAEHRANLE"
+"Cay XRoad B300XB",,TR,3835.600N,03101.833E,965.0m,17,,,,"B300XB032"
+"Celtik City XRoa",,TR,3901.650N,03147.350E,875.0m,17,,,,"CITY XROA"
+"Cifteler XRoad B",,TR,3922.200N,03102.417E,867.0m,17,,,,"XROAD B67"
+"Davulga Central",,TR,3858.867N,03122.817E,992.0m,1,,,,"CENTRAL P"
+"Derekoy Grenze B",,TR,4158.050N,02727.517E,660.0m,1,,,,"GRENZE BG"
+"Doeger Mosque Vi",,TR,3907.467N,03023.667E,1112.0m,1,,,,"MOSQUE VI"
+"Eceabat Faehranl",,TR,4011.050N,02621.583E,3.0m,1,,,,"FAEHRANLE"
+"Emirdag XRoad B6",,TR,3900.850N,03109.217E,910.0m,17,,,,"XROAD B67"
+"Kayi Crossroad S",,TR,3912.917N,03046.100E,1228.0m,17,,,,"CROSSROAD"
+"Kaymaz XRoad B20",,TR,3930.667N,03110.617E,974.0m,17,,,,"XROAD B20"
+"Kirka Crossroad",,TR,3916.867N,03031.717E,1059.0m,17,,,,"CROSSROAD"
+"Kuetahya S XRoad",,TR,3922.050N,03004.350E,935.0m,17,,,,"SXROAD B"
+"Kuetahya N Bridg",,TR,3927.750N,03002.167E,928.0m,14,,,,"NBRIDGE"
+"Polatli XRoad B2",,TR,3934.533N,03210.767E,860.0m,17,,,,"XROAD B20"
+"Porsuk Barrage",,TR,3938.133N,03017.133E,915.0m,1,,,,"BARRAGE"
+"Pusan Crossroad",,TR,3909.667N,03008.667E,1060.0m,17,,,,"CROSSROAD"
+"Seyitgazi Museum",,TR,3926.550N,03041.667E,1041.0m,1,,,,"MUSEUM"
+"Sivrihisar XRoad",,TR,3926.233N,03132.050E,997.0m,17,,,,"XROAD B20"
+"Ueckuyu Village",,TR,3838.183N,03126.600E,1089.0m,1,,,,"VILLAGE C"
+"Usak XRoad B300X",,TR,3840.650N,02925.167E,825.0m,17,,,,"XROAD B30"
+"Uzunkopru Bn550X",,TR,4120.333N,02630.500E,58.0m,14,,,,"BN550XERI"
+"Yukari Piribeyli",,TR,3854.667N,03138.383E,997.0m,1,,,,"PIRIBEYLI"
+"Yunak XRoad B695",,TR,3848.550N,03144.367E,1040.0m,17,,,,"XROAD B69"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

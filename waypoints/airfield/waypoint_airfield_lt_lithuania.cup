@@ -1,0 +1,55 @@
+* ##################################################################################################################################################################################################
+* Airfield LT (Lithuania)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Akmene",,LT,5614.533N,02243.983E,79.0m,2,070,890.0m,,"Flugplatz"
+"Alytus",,LT,5424.767N,02403.333E,82.0m,2,180,740.0m,,"Flugplatz"
+"Barysiai",,LT,5604.233N,02333.483E,82.0m,5,100,980.0m,,"Flugplatz"
+"Birzai",,LT,5610.550N,02445.617E,58.0m,2,030,590.0m,,"Flugplatz"
+"Druskininkai",,LT,5400.917N,02356.583E,92.0m,2,030,890.0m,,"Flugplatz"
+"Jurbarkas Airfie",,LT,5503.200N,02243.450E,18.0m,2,060,500.0m,,"Flugplatz"
+"Kartena",,LT,5555.217N,02134.033E,79.0m,2,090,740.0m,125.000,"Flugplatz"
+"Kaunas",,LT,5457.833N,02405.083E,79.0m,5,080,3240.0m,118.500,"Flugplatz"
+"Kaunas Gamykla L",,LT,5452.800N,02354.433E,76.0m,2,100,500.0m,,"Flugplatz"
+"Kaunas S Dariaus",,LT,5452.783N,02352.850E,76.0m,5,090,1140.0m,,"Flugplatz"
+"Kedainiai Dauksi",,LT,5518.700N,02357.383E,52.0m,5,160,1990.0m,,"Flugplatz"
+"Klaipeda",,LT,5542.717N,02114.567E,18.0m,5,070,590.0m,,"Flugplatz"
+"Kyviskes",,LT,5440.100N,02530.950E,165.0m,5,160,980.0m,,"Flugplatz"
+"Moletai",,LT,5506.767N,02520.183E,198.0m,5,060,400.0m,,"Flugplatz"
+"Nida Neu Gemessn",,LT,5519.667N,02102.767E,3.0m,2,080,800.0m,,"Flugplatz"
+"Palanga",,LT,5558.400N,02105.633E,9.0m,5,010,1990.0m,118.300,"Flugplatz"
+"Paluknys",,LT,5428.983N,02459.533E,122.0m,2,180,650.0m,,"Flugplatz"
+"Panevezyssistrav",,LT,5549.650N,02421.500E,52.0m,5,120,800.0m,123.250,"Flugplatz"
+"Panevezys",,LT,5542.533N,02420.717E,52.0m,2,040,530.0m,,"Flugplatz"
+"Pociunai Gld",,LT,5439.217N,02403.383E,61.0m,5,180,1110.0m,,"Flugplatz"
+"Rojunai",,LT,5536.650N,02413.250E,55.0m,2,090,800.0m,,"Flugplatz"
+"Rokiskis",,LT,5558.367N,02536.450E,140.0m,2,010,1110.0m,,"Flugplatz"
+"Rudiskes",,LT,5429.733N,02443.050E,159.0m,2,010,680.0m,,"Flugplatz"
+"Sasnava",,LT,5439.783N,02327.233E,73.0m,2,070,800.0m,,"Flugplatz"
+"Seduva",,LT,5544.783N,02348.283E,79.0m,2,070,980.0m,,"Flugplatz"
+"Siauliai",,LT,5553.633N,02323.700E,134.0m,5,140,3490.0m,120.400,"Flugplatz"
+"Silute Mil",,LT,5520.217N,02131.833E,18.0m,5,090,800.0m,,"Flugplatz"
+"Skaudvile Wrong",,LT,5524.433N,02235.150E,100.0m,2,130,600.0m,,"Flugplatz"
+"Telsiai",,LT,5559.183N,02217.267E,125.0m,5,110,740.0m,,"Flugplatz"
+"Tirksliai",,LT,5613.833N,02215.567E,79.0m,2,070,430.0m,,"Flugplatz"
+"Utena",,LT,5529.400N,02543.017E,189.0m,2,110,590.0m,,"Flugplatz"
+"Valenciunai",,LT,5501.283N,02258.433E,52.0m,2,110,560.0m,,"Flugplatz"
+"Vilnius",,LT,5438.217N,02517.267E,198.0m,5,020,2510.0m,118.200,"Flugplatz"
+"Zarasai ?",,LT,5545.150N,02615.417E,165.0m,2,030,430.0m,,"Flugplatz"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

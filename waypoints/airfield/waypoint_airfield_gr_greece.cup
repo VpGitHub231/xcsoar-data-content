@@ -1,0 +1,88 @@
+* ##################################################################################################################################################################################################
+* Airfield GR (Greece)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Agrinion Mil",,GR,3836.000N,02120.900E,31.0m,5,090,2940.0m,122.100,"Flugplatz"
+"Agrinion Gld",,GR,3836.850N,02123.617E,48.0m,5,140,1200.0m,123.425,"Flugplatz"
+"AleXAndroupolis",,GR,4051.200N,02557.267E,6.0m,5,070,2570.0m,122.100,"Flugplatz"
+"AleXAndria Gr",,GR,4039.183N,02229.150E,9.0m,5,130,1810.0m,123.500,"Flugplatz"
+"Andravida",,GR,3755.350N,02117.383E,18.0m,5,160,3090.0m,120.650,"Flugplatz"
+"AraXOs",,GR,3809.067N,02125.533E,15.0m,5,180,3330.0m,122.100,"Flugplatz"
+"Astypalaia",,GR,3634.800N,02622.517E,52.0m,5,150,980.0m,124.850,"Flugplatz"
+"Athen Helenikon",,GR,3753.600N,02343.567E,21.0m,5,150,3490.0m,118.100,"Flugplatz"
+"Athen Eleftheri",,GR,3756.200N,02356.667E,95.0m,5,030,4010.0m,118.625,"Flugplatz"
+"Chania Souda",,GR,3531.883N,02409.067E,149.0m,5,110,3330.0m,118.125,"Flugplatz"
+"Chios",,GR,3820.600N,02608.433E,6.0m,5,010,1500.0m,122.700,"Flugplatz"
+"Dekelia Gld",,GR,3806.567N,02347.033E,242.0m,5,030,1320.0m,118.500,"Flugplatz"
+"Edessa Arnissa",,GR,4050.450N,02149.250E,640.0m,4,090,1100.0m,,"Flugplatz"
+"Elefsis Athinai",,GR,3803.867N,02333.367E,21.0m,5,180,2720.0m,120.150,"Flugplatz"
+"Epitalion",,GR,3736.833N,02129.883E,1.0m,5,130,890.0m,122.600,"Flugplatz"
+"Florina Airfield",,GR,4048.333N,02126.333E,642.0m,5,050,1000.0m,,"Flugplatz"
+"Ikaria",,GR,3740.817N,02620.717E,24.0m,5,150,1380.0m,122.300,"Flugplatz"
+"Ioannina",,GR,3941.833N,02049.317E,476.0m,5,140,2390.0m,132.200,"Flugplatz"
+"Iraklion Nikos",,GR,3520.383N,02510.817E,37.0m,5,090,2720.0m,120.850,"Flugplatz"
+"Kalamata",,GR,3704.100N,02201.517E,9.0m,5,170,2690.0m,120.750,"Flugplatz"
+"Kalamata Triodho",,GR,3705.667N,02157.450E,10.0m,5,160,1200.0m,,"Flugplatz"
+"Kalymnos Kalymno",,GR,3657.800N,02656.433E,235.0m,5,100,1010.0m,118.875,"Flugplatz"
+"Karpathos",,GR,3525.267N,02708.750E,21.0m,5,120,2390.0m,123.200,"Flugplatz"
+"Kasos",,GR,3525.283N,02654.600E,12.0m,5,090,980.0m,123.200,"Flugplatz"
+"Kasteli",,GR,3511.433N,02519.650E,360.0m,5,020,2450.0m,122.100,"Flugplatz"
+"Kastelorizo",,GR,3608.500N,02934.583E,149.0m,5,130,800.0m,122.900,"Flugplatz"
+"Kastoria Argos",,GR,4026.783N,02116.867E,662.0m,5,120,2690.0m,118.400,"Flugplatz"
+"Kavala Amigdhale",,GR,4058.367N,02420.483E,60.0m,5,140,1560.0m,122.100,"Flugplatz"
+"Kavala Megas Ale",,GR,4054.833N,02437.183E,6.0m,5,050,3000.0m,118.400,"Flugplatz"
+"Kefallinia",,GR,3807.200N,02030.033E,18.0m,5,140,2420.0m,122.100,"Flugplatz"
+"Kerkira Ioa",,GR,3936.117N,01954.733E,3.0m,5,170,2360.0m,120.850,"Flugplatz"
+"Kithira",,GR,3616.450N,02301.000E,320.0m,5,020,1440.0m,123.250,"Flugplatz"
+"Kopaida Gld",,GR,3827.400N,02308.183E,90.0m,4,090,600.0m,,"Flugplatz"
+"Kos Kos",,GR,3647.683N,02705.467E,125.0m,5,140,2390.0m,121.050,"Flugplatz"
+"Kozani",,GR,4017.150N,02150.500E,628.0m,5,140,1810.0m,118.200,"Flugplatz"
+"Lamia Gld",,GR,3852.433N,02226.117E,10.0m,5,130,700.0m,,"Flugplatz"
+"Larissa",,GR,3938.767N,02226.817E,70.0m,5,080,2970.0m,120.550,"Flugplatz"
+"Leros",,GR,3711.100N,02648.000E,12.0m,5,140,1010.0m,124.950,"Flugplatz"
+"Limnos",,GR,3955.083N,02514.183E,6.0m,5,040,3000.0m,122.100,"Flugplatz"
+"Maleme",,GR,3531.833N,02350.133E,3.0m,5,120,990.0m,122.100,"Flugplatz"
+"Marathon Wasser",,GR,3808.633N,02400.767E,1.0m,5,170,1180.0m,119.700,"Flugplatz"
+"Marathon Kotroni",,GR,3808.267N,02357.067E,208.0m,5,120,590.0m,120.900,"Flugplatz"
+"Megara Army",,GR,3758.883N,02321.967E,3.0m,5,080,1200.0m,122.100,"Flugplatz"
+"Mikonos",,GR,3726.233N,02520.833E,125.0m,5,160,1900.0m,118.750,"Flugplatz"
+"Milos",,GR,3641.817N,02428.617E,3.0m,5,080,800.0m,122.250,"Flugplatz"
+"Mitilini Elytis",,GR,3903.467N,02635.917E,18.0m,5,140,2390.0m,122.100,"Flugplatz"
+"NaXOs",,GR,3704.867N,02522.083E,3.0m,5,180,890.0m,124.750,"Flugplatz"
+"Nea Anghialos",,GR,3913.167N,02247.667E,24.0m,5,080,2750.0m,122.100,"Flugplatz"
+"Paros",,GR,3700.617N,02507.683E,40.0m,5,170,710.0m,125.050,"Flugplatz"
+"Porto Cheli",,GR,3717.850N,02308.867E,21.0m,5,120,710.0m,,"Flugplatz"
+"Preveza",,GR,3855.533N,02045.900E,3.0m,5,070,3000.0m,120.450,"Flugplatz"
+"Rodos Maritsa",,GR,3622.900N,02806.967E,61.0m,5,080,2390.0m,118.100,"Flugplatz"
+"Rodos Diagoras",,GR,3624.317N,02805.167E,6.0m,5,070,3300.0m,118.200,"Flugplatz"
+"Samos",,GR,3741.350N,02654.733E,6.0m,5,090,2050.0m,122.100,"Flugplatz"
+"Santorini",,GR,3623.950N,02528.750E,37.0m,5,160,2110.0m,118.050,"Flugplatz"
+"Sedes",,GR,4031.983N,02301.517E,26.0m,2,130,1290.0m,122.100,"Flugplatz"
+"Sitia",,GR,3512.967N,02606.067E,116.0m,5,050,2080.0m,122.600,"Flugplatz"
+"Skiathos",,GR,3910.650N,02330.217E,15.0m,5,020,1630.0m,122.100,"Flugplatz"
+"Skiros",,GR,3858.050N,02429.250E,12.0m,5,180,3000.0m,122.100,"Flugplatz"
+"Sparta Mil 2001",,GR,3658.417N,02231.550E,152.0m,5,060,990.0m,119.700,"Flugplatz"
+"Stefanovikion",,GR,3928.750N,02246.117E,46.0m,5,060,1590.0m,123.500,"Flugplatz"
+"Syros",,GR,3725.383N,02457.000E,73.0m,5,180,1080.0m,122.100,"Flugplatz"
+"Tanagra",,GR,3820.383N,02333.867E,144.0m,5,100,3000.0m,120.250,"Flugplatz"
+"Thessaloniki",,GR,4031.183N,02258.250E,6.0m,5,100,2450.0m,118.050,"Flugplatz"
+"Timbaki",,GR,3503.667N,02445.067E,3.0m,5,160,700.0m,122.100,"Flugplatz"
+"Tripolis",,GR,3731.817N,02224.200E,643.0m,5,020,1930.0m,122.100,"Flugplatz"
+"Zakinthos",,GR,3745.067N,02053.050E,6.0m,5,160,2240.0m,122.100,"Flugplatz"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

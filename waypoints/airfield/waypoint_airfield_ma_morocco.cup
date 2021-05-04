@@ -1,0 +1,55 @@
+* ##################################################################################################################################################################################################
+* Airfield MA (Morocco)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Agadir Al Massir",,MA,3019.500N,00924.783W,76.0m,5,100,3180.0m,119.500,"Flugplatz"
+"Al Hoceima Cheri",,MA,3510.833N,00349.900W,31.0m,5,180,2510.0m,118.700,"Flugplatz"
+"Beni Mellal",,MA,3224.000N,00620.000W,509.0m,5,050,1200.0m,118.600,"Flugplatz"
+"Casablanca Anfa",,MA,3333.200N,00739.683W,61.0m,5,030,1870.0m,118.100,"Flugplatz"
+"Casablanca Moham",,MA,3321.850N,00734.900W,201.0m,5,170,3730.0m,118.500,"Flugplatz"
+"Casablanca Tit M",,MA,3335.850N,00727.900W,98.0m,5,180,680.0m,118.700,"Flugplatz"
+"Dakhla",,MA,2343.100N,01555.917W,12.0m,5,030,3000.0m,118.100,"Flugplatz"
+"El Jadida",,MA,3314.000N,00831.000W,28.0m,5,050,1380.0m,,"Flugplatz"
+"Errachidia Moula",,MA,3156.900N,00424.050W,1046.0m,5,130,3180.0m,122.700,"Flugplatz"
+"Essaouira Mogado",,MA,3123.833N,00940.917W,116.0m,5,160,2080.0m,121.200,"Flugplatz"
+"Fes Saiss Suedl",,MA,3355.633N,00458.750W,579.0m,5,090,3180.0m,118.600,"Flugplatz"
+"Fes Sefrou ?",,MA,3400.483N,00457.933W,469.0m,5,090,980.0m,,"Flugplatz"
+"Fmhassan",,MA,2901.000N,00851.000W,500.0m,2,,,,"Flugplatz"
+"Goulmin Mil",,MA,2901.500N,01003.000W,330.0m,5,040,3000.0m,118.100,"Flugplatz"
+"Ifrane",,MA,3329.850N,00509.900W,1664.0m,5,030,2080.0m,131.000,"Flugplatz"
+"Jebair Wuestenpi",,MA,2934.500N,00800.167W,640.0m,2,020,830.0m,,"Flugplatz"
+"Kenitra Tourisme",,MA,3415.000N,00637.000W,43.0m,5,030,800.0m,,"Flugplatz"
+"Laayoune",,MA,2709.100N,01313.150W,67.0m,5,020,2690.0m,131.100,"Flugplatz"
+"Marrakech Menara",,MA,3136.517N,00802.450W,473.0m,5,100,3090.0m,118.700,"Flugplatz"
+"Migourda",,MA,2938.000N,00757.000W,500.0m,2,,,,"Flugplatz"
+"Nador Arwi",,MA,3459.350N,00301.667W,174.0m,5,080,3000.0m,118.650,"Flugplatz"
+"Ouarzaztee",,MA,3056.233N,00654.350W,1152.0m,5,120,3000.0m,118.100,"Flugplatz"
+"Ouezzane",,MA,3447.000N,00538.000W,174.0m,5,180,1200.0m,,"Flugplatz"
+"Oujda Angads",,MA,3447.167N,00155.533W,469.0m,5,060,3000.0m,118.200,"Flugplatz"
+"Rabat Sale",,MA,3402.850N,00644.900W,85.0m,5,040,3490.0m,118.300,"Flugplatz"
+"Safi",,MA,3217.000N,00914.000W,52.0m,5,080,1780.0m,118.700,"Flugplatz"
+"Sidi Ifni XX",,MA,2922.000N,01011.267W,58.0m,5,040,990.0m,,"Flugplatz"
+"Tanger Ibn Batou",,MA,3543.900N,00555.267W,18.0m,5,100,3490.0m,119.500,"Flugplatz"
+"Tan Tan Plage Bl",,MA,2826.900N,01109.683W,198.0m,5,030,1990.0m,129.700,"Flugplatz"
+"Tantnold",,MA,2826.000N,01106.000W,100.0m,2,,,,"Flugplatz"
+"Taroudant",,MA,3030.100N,00849.650W,265.0m,5,080,1500.0m,,"Flugplatz"
+"Taza",,MA,3414.000N,00357.000W,576.0m,5,080,1590.0m,,"Flugplatz"
+"Tetouan Sania Ra",,MA,3535.667N,00519.200W,3.0m,5,060,2300.0m,119.000,"Flugplatz"
+"Zagora",,MA,3019.217N,00552.000W,802.0m,2,110,1110.0m,,"Flugplatz"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

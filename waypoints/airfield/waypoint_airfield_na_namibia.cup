@@ -1,0 +1,45 @@
+* ##################################################################################################################################################################################################
+* Airfield NA (Namibia)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Arandis Fyar 30",,NA,2227.733S,01458.800E,570.0m,2,,1930.0m,123.500,"Flugplatz"
+"Aus Fyasv 20+",,NA,2641.633S,01619.133E,1480.0m,2,,900.0m,,"Flugplatz"
+"Bitterwasser",,NA,2351.883S,01759.800E,1265.0m,2,090,1600.0m,123.600,"Flugplatz"
+"Bethanien Fybc 2",,NA,2632.667S,01711.000E,1067.0m,2,,930.0m,123.500,"Flugplatz"
+"Gobabis Fygb 20+",,NA,2230.283S,01858.483E,1442.0m,2,,2270.0m,123.500,"Flugplatz"
+"Grootfontein Fyg",,NA,1936.133S,01807.367E,1413.0m,2,,3550.0m,123.300,"Flugplatz"
+"Karibib Fyka 20+",,NA,2150.867S,01554.167E,1070.0m,2,,2550.0m,,"Flugplatz"
+"Kiripotib",,NA,2319.700S,01756.783E,1364.0m,2,080,1410.0m,123.700,"Flugplatz"
+"Kamanjab Fykj 30",,NA,1931.233S,01449.400E,1298.0m,2,,1850.0m,,"Flugplatz"
+"Keetmanshoop Fyk",,NA,2632.333S,01806.700E,1069.0m,2,,2300.0m,118.300,"Flugplatz"
+"Mariental Fyml 2",,NA,2436.250S,01755.533E,1110.0m,2,,1990.0m,125.600,"Flugplatz"
+"Mokuti Lodge Fym",,NA,1848.767S,01703.567E,1117.0m,2,,2210.0m,123.500,"Flugplatz"
+"Okaukuejo Fyoo 2",,NA,1908.950S,01554.717E,1300.0m,2,,1480.0m,124.800,"Flugplatz"
+"Omaruru Fyom",,NA,2124.900S,01556.283E,1217.0m,2,,1500.0m,,"Flugplatz"
+"Ondangwa Fyda 20",,NA,1752.717S,01557.167E,1098.0m,2,,3000.0m,125.600,"Flugplatz"
+"Otjiwarongo Fyow",,NA,2026.083S,01639.683E,1481.0m,2,,1080.0m,,"Flugplatz"
+"Pokweni",,NA,2339.000S,01743.800E,1273.0m,2,170,3000.0m,123.500,"Flugplatz"
+"Scorpion Mine /",,NA,2752.567S,01638.850E,572.0m,2,,1700.0m,124.800,"Flugplatz"
+"Rundu Afb Mil_Ba",,NA,1757.383S,01943.150E,1105.0m,2,,3350.0m,124.800,"Flugplatz"
+"Swakopmund Fysm",,NA,2239.717S,01434.083E,63.0m,2,,1590.0m,126.300,"Flugplatz"
+"Tsumeb Fytm 20+",,NA,1915.733S,01743.933E,1348.0m,2,,1500.0m,124.800,"Flugplatz"
+"Rooikoop Fywb 25",,NA,2258.800S,01438.717E,91.0m,2,,2130.0m,122.500,"Flugplatz"
+"Windhoek Eros Fy",,NA,2236.450S,01704.750E,1701.0m,2,,1470.0m,118.700,"Flugplatz"
+"Windhoek Int'L F",,NA,2228.800S,01728.250E,1719.0m,2,,4590.0m,118.100,"Flugplatz"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

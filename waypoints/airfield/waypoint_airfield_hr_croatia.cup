@@ -1,0 +1,69 @@
+* ##################################################################################################################################################################################################
+* Airfield HR (Croatia)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Barb",,HR,4536.200N,01839.683E,96.0m,2,,,,"Flugplatz"
+"Bjelovar Brezova",,HR,4551.650N,01650.150E,131.0m,2,030,620.0m,,"Flugplatz"
+"Brac",,HR,4317.150N,01640.783E,543.0m,5,040,1440.0m,118.025,"Flugplatz"
+"Branjevina",,HR,4529.233N,01832.650E,98.0m,2,,,,"Flugplatz"
+"Brod",,HR,4540.700N,01835.067E,83.0m,2,120,600.0m,,"Flugplatz"
+"Brodjanci",,HR,4532.383N,01829.200E,87.0m,2,100,700.0m,,"Flugplatz"
+"Budimci",,HR,4527.500N,01818.750E,102.0m,2,,,,"Flugplatz"
+"Busevec Velika G",,HR,4538.850N,01607.467E,104.0m,2,140,890.0m,,"Flugplatz"
+"Cadjavica",,HR,4543.800N,01751.017E,97.0m,2,020,600.0m,,"Flugplatz"
+"Cakovec Pribisla",,HR,4623.517N,01630.017E,156.0m,2,030,1110.0m,123.500,"Flugplatz"
+"Cazma Grabovnica",,HR,4544.983N,01639.817E,146.0m,5,010,650.0m,,"Flugplatz"
+"Cerna",,HR,4510.367N,01840.017E,78.0m,2,070,530.0m,,"Flugplatz"
+"Daruvar Blagorod",,HR,4533.567N,01701.983E,125.0m,2,060,590.0m,123.500,"Flugplatz"
+"Djakovo",,HR,4518.917N,01826.883E,98.0m,2,,,,"Flugplatz"
+"Drenje",,HR,4522.500N,01818.133E,99.0m,2,,,,"Flugplatz"
+"Dubrovnik Cilipi",,HR,4233.683N,01816.100E,162.0m,5,120,3300.0m,118.500,"Flugplatz"
+"Grabovac",,HR,4542.500N,01843.133E,105.0m,2,,,,"Flugplatz"
+"Grobnicko Polje",,HR,4522.767N,01430.217E,308.0m,5,070,1590.0m,,"Flugplatz"
+"Hvar Prv",,HR,4310.900N,01638.000E,28.0m,2,100,740.0m,124.500,"Flugplatz"
+"Kapelna",,HR,4542.450N,01804.817E,89.0m,2,090,500.0m,,"Flugplatz"
+"Koprivnica Danic",,HR,4612.783N,01650.233E,134.0m,2,070,1050.0m,,"Flugplatz"
+"Krk Rijeka",,HR,4513.000N,01434.217E,85.0m,5,140,2510.0m,119.000,"Flugplatz"
+"Lila",,HR,4533.067N,01806.583E,96.0m,2,020,600.0m,,"Flugplatz"
+"Losinj Island",,HR,4433.950N,01423.583E,46.0m,5,020,890.0m,120.300,"Flugplatz"
+"Marjanci",,HR,4539.133N,01817.650E,112.0m,2,,,,"Flugplatz"
+"Medulin Campanoz",,HR,4450.600N,01354.250E,52.0m,2,120,800.0m,123.500,"Flugplatz"
+"Mirkovac",,HR,4543.850N,01847.317E,78.0m,2,090,600.0m,,"Flugplatz"
+"Niza",,HR,4532.917N,01814.067E,93.0m,2,080,500.0m,,"Flugplatz"
+"Novaki",,HR,4547.483N,01737.850E,105.0m,2,040,500.0m,,"Flugplatz"
+"Osijek Cepin",,HR,4532.567N,01837.933E,92.0m,5,100,1200.0m,118.800,"Flugplatz"
+"Osijek Klisa",,HR,4527.750N,01848.600E,88.0m,5,110,2510.0m,118.800,"Flugplatz"
+"Otocac",,HR,4450.750N,01517.600E,469.0m,2,150,1630.0m,123.500,"Flugplatz"
+"Ploce",,HR,4302.333N,01725.783E,3.0m,5,010,1200.0m,129.625,"Flugplatz"
+"Pula",,HR,4453.617N,01355.333E,82.0m,5,090,2940.0m,120.000,"Flugplatz"
+"Sinj Gld",,HR,4342.017N,01640.283E,299.0m,4,080,1110.0m,,"Flugplatz"
+"Slavonski Jelas",,HR,4509.367N,01759.283E,84.0m,2,070,890.0m,,"Flugplatz"
+"Sljivosevci",,HR,4539.567N,01813.750E,91.0m,2,,,,"Flugplatz"
+"Split Kastela",,HR,4332.333N,01617.883E,24.0m,5,050,2540.0m,124.675,"Flugplatz"
+"Udbina",,HR,4433.333N,01546.917E,750.0m,5,130,2750.0m,118.200,"Flugplatz"
+"Unije",,HR,4437.700N,01414.467E,12.0m,2,050,830.0m,123.500,"Flugplatz"
+"Varazdin Croatia",,HR,4617.650N,01623.017E,165.0m,5,160,1720.0m,,"Flugplatz"
+"Veliskovci",,HR,4540.883N,01818.567E,91.0m,2,050,1000.0m,,"Flugplatz"
+"Vinkovci Sopot",,HR,4515.067N,01845.550E,81.0m,2,040,800.0m,,"Flugplatz"
+"Vrsar Crljenka",,HR,4508.500N,01337.833E,37.0m,5,180,680.0m,,"Flugplatz"
+"Vukovar Borovo N",,HR,4523.183N,01857.767E,88.0m,2,140,890.0m,,"Flugplatz"
+"Zadar Zemunik",,HR,4406.500N,01520.800E,88.0m,5,040,1990.0m,123.700,"Flugplatz"
+"Zagreb Pleso",,HR,4544.583N,01604.117E,107.0m,5,050,3240.0m,118.300,"Flugplatz"
+"Zagreb Lucko Cro",,HR,4546.017N,01550.917E,122.0m,2,100,830.0m,124.500,"Flugplatz"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

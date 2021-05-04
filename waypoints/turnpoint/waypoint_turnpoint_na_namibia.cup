@@ -1,0 +1,124 @@
+* ##################################################################################################################################################################################################
+* Turnpoint NA (Namibia)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Ariamsvley",,NA,2807.100S,01950.233E,776.0m,1,,,,
+"Basaroot",,NA,2345.500S,01817.667E,1269.0m,1,,,,
+"Bimsfarm No Land",,NA,2343.950S,01808.967E,1284.0m,1,,,,"NOLAND"
+"Bitterwa Dunehou",,NA,2353.550S,01758.950E,1278.0m,1,,,,"DUNEHOU"
+"Bitterwa Hangar",,NA,2351.883S,01759.800E,1265.0m,1,,,,"HANGAR"
+"Blumfelde Sy",,NA,2334.217S,01819.017E,1290.0m,17,,,,"SY"
+"Buitepos N SX",,NA,2216.000S,02000.000E,1280.0m,17,,,,"NSX"
+"Buitepos S Nosso",,NA,2445.000S,02000.000E,1049.0m,1,,,,"SNOSSO"
+"Bullsport Tr",,NA,2407.000S,01622.000E,548.0m,1,,,,"TR"
+"Cowdray Sy",,NA,2332.683S,01747.267E,1312.0m,17,,,,"SY"
+"Derm Sy",,NA,2338.600S,01812.000E,1290.0m,17,,,,"SY"
+"Doornpoort Riv_X",,NA,2304.433S,01803.033E,1400.0m,1,,,,"RIV_X"
+"Dordabis Sy",,NA,2256.600S,01739.800E,1506.0m,17,,,,"SY"
+"Drimiopsis Nwe_T",,NA,2204.000S,01904.000E,1530.0m,1,,,,"NWE_T"
+"Eintracht Sy",,NA,2221.183S,01814.633E,1511.0m,17,,,,"SY"
+"Finger Gotte Roc",,NA,2529.833S,01810.350E,1053.0m,1,,,,"GOTTE ROC"
+"Fortuna Pad",,NA,2148.500S,01954.500E,1338.0m,1,,,,"PAD"
+"Gamsberg",,NA,2322.000S,01615.000E,2059.0m,1,,,,
+"Gams Farm",,NA,2322.000S,01618.000E,1847.0m,1,,,,"FARM"
+"Garib Farmhouse",,NA,2308.100S,01737.967E,1441.0m,1,,,,"FARMHOUSE"
+"Gobabis Street-T",,NA,2226.183S,01900.767E,1467.0m,1,,,,"STREET-T"
+"Gerbaud 1 25",,NA,2325.500S,01642.000E,1658.0m,1,,,,"25"
+"Gianti-1 25",,NA,2415.000S,01619.000E,1383.0m,1,,,,"25"
+"Gibeon Town Cent",,NA,2507.633S,01745.717E,1031.0m,1,,,,"TOWN CENT"
+"Gochas SX West",,NA,2451.600S,01848.217E,1099.0m,17,,,,"SXWEST"
+"Godehoop",,NA,2117.000S,01532.000E,1087.0m,1,,,,
+"Gollschau",,NA,2315.300S,01630.000E,1832.0m,1,,,,
+"Gollschau E",,NA,2312.000S,01636.000E,1759.0m,1,,,,"E"
+"Gomnab Farmhouse",,NA,2341.250S,01816.517E,1279.0m,1,,,,"FARMHOUSE"
+"Greub 1 25",,NA,2306.250S,01643.000E,1590.0m,1,,,,"25"
+"Guamus Farmhouse",,NA,2511.867S,01816.417E,1169.0m,1,,,,"FARMHOUSE"
+"Guibes Rd_X_Rw",,NA,2641.717S,01656.867E,1249.0m,1,,,,"RD_X_RW"
+"Haribes Dam",,NA,2437.000S,01732.333E,1186.0m,1,,,,"DAM"
+"Helmringhausen D",,NA,2553.367S,01649.283E,1392.0m,1,,,,"D"
+"Helmeringhausen",,NA,2604.000S,01648.000E,1446.0m,1,,,,
+"Hochfeld Police",,NA,2129.417S,01751.117E,161.0m,1,,,,"POLICE"
+"Kalkfeld Sy",,NA,2053.450S,01611.283E,1520.0m,17,,,,"SY"
+"Katzensteg Sy",,NA,2446.333S,01858.667E,1123.0m,17,,,,"SY"
+"Kaukerus Sy",,NA,2337.083S,01752.283E,1315.0m,17,,,,"SY"
+"Keitzaub Weissno",,NA,2248.617S,01850.983E,1362.0m,1,,,,"WEISSNO"
+"Klein Nauas Sw L",,NA,2319.000S,01750.650E,1362.0m,1,,,,"NAUAS SW"
+"Kalahan Game Lod",,NA,2547.333S,02000.000E,989.0m,1,,,,"GAMELOD"
+"Klipdrif",,NA,2631.000S,01655.000E,1291.0m,1,,,,
+"Koes Town Center",,NA,2556.050S,01907.283E,970.0m,1,,,,"TOWNCENT"
+"Kouwater",,NA,2437.583S,01802.617E,1150.0m,1,,,,
+"Krumneck",,NA,2257.683S,01656.067E,1763.0m,1,,,,
+"Keetmansh Rr Rai",,NA,2635.450S,01808.433E,962.0m,1,,,,"RRRAI"
+"Lendepas",,NA,2444.717S,02000.000E,1052.0m,1,,,,
+"Leonardville",,NA,2330.583S,01847.217E,1271.0m,1,,,,
+"Lidfontein SX",,NA,2404.900S,01811.800E,1311.0m,17,,,,"SX"
+"Maltah Kalkr 8 B",,NA,2420.633S,01719.933E,1285.0m,1,,,,"KALKR 8 B"
+"Maltah Kalkr 9",,NA,2430.650S,01711.300E,1353.0m,1,,,,"KALKR9"
+"Maltah Airstrip",,NA,2446.100S,01658.517E,1365.0m,1,,,,"AIRSTRIP"
+"Maltah S SX West",,NA,2451.067S,01657.300E,1371.0m,17,,,,"SSX WEST"
+"Marient A",,NA,2437.933S,01757.467E,1100.0m,1,,,,"A"
+"Mata Mata Fence",,NA,2546.067S,02000.000E,989.0m,1,,,,"MATAFENC"
+"Morester Sy",,NA,2406.917S,01958.600E,1175.0m,17,,,,"SY"
+"Nabus Sy",,NA,2402.300S,01858.467E,1206.0m,17,,,,"SY"
+"Nauchas",,NA,2338.000S,01619.500E,1799.0m,1,,,,
+"Ninette",,NA,2224.000S,01845.000E,1476.0m,1,,,,
+"Nossob Gabel Sy",,NA,2307.250S,01842.017E,1266.0m,17,,,,"GABEL SY"
+"Oamites Sy",,NA,2300.467S,01706.967E,1636.0m,17,,,,"SY"
+"Okahandja S Sy",,NA,2159.900S,01655.400E,1329.0m,17,,,,"SSY"
+"Okahennesiva SX",,NA,2151.783S,01824.233E,1613.0m,17,,,,"SX"
+"Okamapu Farm",,NA,2144.217S,01753.100E,1688.0m,1,,,,"FARM"
+"Okapanje Farm",,NA,2235.350S,01757.933E,1501.0m,1,,,,"FARM"
+"Olifantwater W",,NA,2342.300S,01821.700E,1278.0m,1,,,,"W"
+"Omaha Farm",,NA,2107.917S,01631.567E,1515.0m,1,,,,"FARM"
+"Omuramba 25",,NA,2125.000S,01917.000E,1446.0m,1,,,,"25"
+"Osona Airstrip 2",,NA,2206.467S,01658.783E,1356.0m,1,,,,"AIRSTRIP"
+"Otjihaenena Rd_X",,NA,2217.417S,01746.283E,1607.0m,1,,,,"RD_X"
+"Otjiwarong B Rs",,NA,2027.667S,01638.383E,1463.0m,1,,,,"BRS"
+"Otjiwarong S Sy",,NA,2027.600S,01639.117E,1468.0m,17,,,,"SSY"
+"Rehoboth Sta Rs",,NA,2318.633S,01711.233E,1386.0m,1,,,,"STARS"
+"Rehoboth Town SX",,NA,2319.300S,01704.267E,1409.0m,17,,,,"TOWN SX"
+"Rheinpfalz Farmh",,NA,2331.733S,01759.400E,1329.0m,1,,,,"FARMH"
+"Rhenoster K SX",,NA,2109.917S,01624.150E,1455.0m,17,,,,"KSX"
+"Rietoog",,NA,2358.000S,01633.833E,1494.0m,1,,,,
+"Runnersrest Sy",,NA,2400.800S,01744.683E,1229.0m,17,,,,"SY"
+"Salzbrunn Rd_X_R",,NA,2422.983S,01758.283E,1175.0m,1,,,,"RD_X_R"
+"Sandfontein Rd_X",,NA,2216.850S,02000.000E,1267.0m,1,,,,"RD_X"
+"Schlip Kalkrand",,NA,2400.083S,01653.667E,1405.0m,1,,,,"KALKRAND"
+"Schlip Kalkrand",,NA,2403.083S,01722.183E,1273.0m,1,,,,"KALKRAND"
+"Schlip Kalkrand",,NA,2403.433S,01709.600E,1336.0m,1,,,,"KALKRAND"
+"Schlip Town",,NA,2402.000S,01711.500E,1336.0m,1,,,,"TOWN"
+"Sigwart 1 25",,NA,2432.117S,01951.800E,1115.0m,1,,,,"25"
+"Solingen Sy",,NA,2223.800S,01906.583E,1482.0m,17,,,,"SY"
+"Spatzenfeld Sy",,NA,2247.150S,01853.367E,1384.0m,17,,,,"SY"
+"Stampriet Sy E",,NA,2420.717S,01824.067E,1170.0m,17,,,,"SYE"
+"Steinhausen Sy W",,NA,2149.467S,01813.917E,1641.0m,17,,,,"SYW"
+"Stampriet Pan 20",,NA,2420.833S,01819.600E,1165.0m,1,,,,"PAN20"
+"Swa Knee Border",,NA,2200.000S,02000.000E,1319.0m,1,,,,"BORDER"
+"Tses Rd_X_Rw",,NA,2553.733S,01806.967E,1100.0m,1,,,,"RD_X_RW"
+"Tweeriver Sy Se",,NA,2527.650S,01926.267E,1019.0m,17,,,,"SYSE"
+"Twilight Farmhou",,NA,2410.033S,01759.350E,1220.0m,1,,,,"FARMHOU"
+"Victory Farmhous",,NA,2358.183S,01816.150E,1232.0m,1,,,,"FARMHOUS"
+"Vredeshoop Sy",,NA,2706.017S,01932.033E,893.0m,17,,,,"SY"
+"Wandervogel Sy",,NA,2438.350S,01942.200E,1099.0m,17,,,,"SY"
+"Wilskrag Sy",,NA,2200.000S,02037.667E,1250.0m,17,,,,"SY"
+"Witbooisvley Sy",,NA,2503.567S,01827.367E,1160.0m,17,,,,"SY"
+"Wittenau",,NA,2327.833S,01852.400E,1287.0m,1,,,,
+"Witwater East",,NA,2442.100S,01558.517E,909.0m,1,,,,"EAST"
+"Zuuberg",,NA,2616.000S,01700.000E,1110.0m,1,,,,
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

@@ -1,0 +1,98 @@
+* ##################################################################################################################################################################################################
+* Airfield PT (Portugal)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Abrantes",,PT,3928.833N,00804.733W,93.0m,2,,,,"Flugplatz"
+"Agueda 30M Ulm",,PT,4033.033N,00824.600W,99.0m,2,180,800.0m,,"Flugplatz"
+"Alcochete Mil",,PT,3846.050N,00848.167W,36.0m,5,180,1200.0m,,"Flugplatz"
+"Alhos Vedros 30M",,PT,3839.350N,00901.250W,7.0m,2,130,,,"Flugplatz"
+"Alverca Mil",,PT,3853.133N,00901.683W,3.0m,5,040,2510.0m,119.225,"Flugplatz"
+"Amareleja Pista",,PT,3810.750N,00712.433W,192.0m,2,090,700.0m,,"Flugplatz"
+"Aveiro Sao Jacin",,PT,4039.467N,00844.467W,9.0m,5,170,1380.0m,122.000,"Flugplatz"
+"Beja Mil",,PT,3804.733N,00755.950W,195.0m,5,010,3460.0m,122.100,"Flugplatz"
+"Benavente",,PT,3854.917N,00847.250W,99.0m,2,150,,130.750,"Flugplatz"
+"Bilrete 40M Prv",,PT,3858.900N,00846.033W,21.0m,2,030,,,"Flugplatz"
+"Braga",,PT,4135.150N,00826.950W,76.0m,5,070,950.0m,122.000,"Flugplatz"
+"Braganca Gld",,PT,4151.467N,00642.433W,683.0m,5,020,1660.0m,122.300,"Flugplatz"
+"Cascais Tires",,PT,3843.533N,00921.317W,101.0m,5,170,1200.0m,120.300,"Flugplatz"
+"Castelb Branco",,PT,3951.233N,00726.983W,373.0m,2,090,700.0m,123.500,"Flugplatz"
+"Chaves 23M",,PT,4143.450N,00727.867W,360.0m,5,160,860.0m,122.700,"Flugplatz"
+"Coimbra",,PT,4009.683N,00828.333W,180.0m,5,160,920.0m,122.900,"Flugplatz"
+"Coja Arganil",,PT,4016.500N,00758.500W,282.0m,2,100,700.0m,,"Flugplatz"
+"Corvo",,PT,3940.233N,03106.583W,18.0m,5,120,800.0m,122.300,"Flugplatz"
+"Covilha Gld",,PT,4015.850N,00728.767W,479.0m,5,060,950.0m,122.000,"Flugplatz"
+"Espinho",,PT,4058.450N,00838.667W,3.0m,5,180,250.0m,,"Flugplatz"
+"Esporao Prv",,PT,3822.917N,00733.117W,212.0m,2,010,900.0m,,"Flugplatz"
+"Evora Gld",,PT,3831.833N,00753.467W,247.0m,5,010,1290.0m,122.700,"Flugplatz"
+"Faro",,PT,3700.867N,00757.950W,6.0m,5,100,2480.0m,118.200,"Flugplatz"
+"Flores",,PT,3927.383N,03107.817W,34.0m,5,180,1380.0m,118.300,"Flugplatz"
+"Fteserne Prv Agr",,PT,3753.000N,00826.933W,71.0m,2,150,500.0m,,"Flugplatz"
+"Garrocheira Prv",,PT,3859.600N,00846.500W,12.0m,2,030,,,"Flugplatz"
+"Gaviao Pista Agr",,PT,3925.300N,00749.200W,137.0m,2,070,600.0m,,"Flugplatz"
+"Graciosa",,PT,3905.583N,02801.733W,28.0m,5,090,1320.0m,122.900,"Flugplatz"
+"Horta",,PT,3831.200N,02842.983W,37.0m,5,100,1590.0m,118.000,"Flugplatz"
+"Lajes",,PT,3845.717N,02705.450W,55.0m,5,150,3300.0m,122.100,"Flugplatz"
+"Leiria Gandara",,PT,3946.717N,00849.183W,46.0m,5,020,590.0m,122.100,"Flugplatz"
+"Lisboa",,PT,3846.450N,00908.050W,113.0m,5,030,3790.0m,118.100,"Flugplatz"
+"Lousa Prv",,PT,4008.050N,00813.950W,204.0m,5,120,590.0m,123.250,"Flugplatz"
+"Machede Prv",,PT,3836.000N,00749.000W,275.0m,2,,,,"Flugplatz"
+"Madeira Funchal",,PT,3241.650N,01646.683W,58.0m,5,050,2790.0m,118.350,"Flugplatz"
+"Margarida Mil",,PT,3924.083N,00817.367W,153.0m,5,140,1000.0m,,"Flugplatz"
+"Melides 30M",,PT,3811.867N,00843.667W,11.0m,2,170,,,"Flugplatz"
+"Mirandela",,PT,4128.100N,00713.067W,405.0m,2,170,710.0m,,"Flugplatz"
+"Mogadouro",,PT,4123.817N,00640.900W,716.0m,5,030,800.0m,,"Flugplatz"
+"Monfortinho",,PT,3958.600N,00654.400W,302.0m,5,170,890.0m,,"Flugplatz"
+"Montijo",,PT,3842.300N,00902.250W,15.0m,5,080,2450.0m,122.100,"Flugplatz"
+"Montargil",,PT,3859.750N,00808.450W,104.0m,2,060,890.0m,123.450,"Flugplatz"
+"Monte Real Mil",,PT,3949.700N,00853.250W,58.0m,5,010,2450.0m,122.100,"Flugplatz"
+"Monte Tezas 30M",,PT,3806.550N,00710.833W,275.0m,2,110,,,"Flugplatz"
+"Obidos3 20M Hang",,PT,3923.350N,00911.900W,1.0m,2,,,,"Flugplatz"
+"Odivelas 20M Agr",,PT,3812.933N,00805.000W,152.0m,2,080,800.0m,,"Flugplatz"
+"Olivfrades 30M",,PT,4042.500N,00814.000W,579.0m,2,070,,,"Flugplatz"
+"Oto Mil",,PT,3905.400N,00857.150W,50.0m,2,180,,122.100,"Flugplatz"
+"Ovar Mil",,PT,4055.217N,00838.633W,18.0m,5,180,2450.0m,122.100,"Flugplatz"
+"Palcacer Prv Agr",,PT,3820.783N,00826.533W,96.0m,2,130,800.0m,,"Flugplatz"
+"Pampilhosa 20M",,PT,4003.500N,00757.000W,809.0m,2,090,,,"Flugplatz"
+"Pico",,PT,3833.250N,02826.483W,34.0m,5,090,1750.0m,122.700,"Flugplatz"
+"Ponta Delgada Jo",,PT,3744.517N,02541.867W,79.0m,5,120,2420.0m,118.300,"Flugplatz"
+"Pombeira",,PT,3941.050N,00814.950W,326.0m,5,140,780.0m,,"Flugplatz"
+"Portalegre 30M",,PT,3914.667N,00728.000W,305.0m,2,070,,,"Flugplatz"
+"Portimao",,PT,3709.083N,00834.917W,3.0m,5,110,860.0m,122.000,"Flugplatz"
+"Porto Francisco",,PT,4114.133N,00840.683W,70.0m,5,170,3490.0m,118.000,"Flugplatz"
+"Porto Santo",,PT,3304.250N,01620.983W,104.0m,5,180,3000.0m,118.400,"Flugplatz"
+"Praia Verde 23M",,PT,3711.550N,00728.383W,3.0m,2,120,710.0m,,"Flugplatz"
+"Proen Ad Pista M",,PT,3944.500N,00752.667W,421.0m,2,130,800.0m,,"Flugplatz"
+"Quinta Foz 30M P",,PT,3858.517N,00850.433W,5.0m,2,160,,,"Flugplatz"
+"Santmaria",,PT,3658.433N,02510.267W,95.0m,5,180,3060.0m,118.100,"Flugplatz"
+"Santa Cruz",,PT,3907.433N,00922.750W,49.0m,5,170,530.0m,122.350,"Flugplatz"
+"Sao Jorge",,PT,3839.817N,02810.217W,95.0m,5,130,1290.0m,122.300,"Flugplatz"
+"Santarem",,PT,3913.033N,00841.300W,9.0m,5,050,1200.0m,123.550,"Flugplatz"
+"Seia",,PT,4025.767N,00739.950W,757.0m,2,060,1200.0m,,"Flugplatz"
+"Seia Ad Pistas D",,PT,4027.167N,00741.633W,443.0m,5,070,1500.0m,,"Flugplatz"
+"Sines",,PT,3756.433N,00848.567W,31.0m,2,140,1140.0m,,"Flugplatz"
+"Sintra",,PT,3850.050N,00920.467W,134.0m,5,140,1810.0m,119.850,"Flugplatz"
+"Sobral Adiia",,PT,3803.000N,00716.000W,229.0m,2,130,600.0m,,"Flugplatz"
+"Tancos Mil",,PT,3928.533N,00821.900W,82.0m,5,080,2300.0m,122.100,"Flugplatz"
+"Vendas Novas Mil",,PT,3841.717N,00826.717W,119.0m,2,,,,"Flugplatz"
+"Vilar Da Luz Mai",,PT,4116.833N,00831.017W,241.0m,5,160,800.0m,,"Flugplatz"
+"Vila Real",,PT,4116.483N,00743.250W,552.0m,5,020,950.0m,122.900,"Flugplatz"
+"Vila Mea Cerval",,PT,4158.783N,00840.600W,45.0m,5,160,700.0m,130.125,"Flugplatz"
+"Viseu",,PT,4043.567N,00753.333W,628.0m,5,010,980.0m,122.300,"Flugplatz"
+"Volta Vale 20M P",,PT,3857.967N,00823.650W,46.0m,2,080,,,"Flugplatz"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

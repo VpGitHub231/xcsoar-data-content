@@ -1,0 +1,42 @@
+* ##################################################################################################################################################################################################
+* Outlanding BE (Belgium)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Arlon Ul Ebar",,BE,4939.733N,00553.167E,336.0m,3,090,300.0m,123.450,"Landefeld"
+"Avernas Baduin",,BE,5042.417N,00504.283E,120.0m,3,050,240.0m,,"Landefeld"
+"Baisy Thy Genapp",,BE,5034.117N,00426.100E,160.0m,3,140,360.0m,,"Landefeld"
+"Bastogne Mishamp",,BE,5003.067N,00547.817E,530.0m,3,070,350.0m,,"Landefeld"
+"Bassenge Ul Cls",,BE,5046.567N,00536.800E,113.0m,3,050,300.0m,,"Landefeld"
+"Bouillon Mogimon",,BE,4952.000N,00504.100E,419.0m,3,090,260.0m,,"Landefeld"
+"Buellingen Ul",,BE,5024.900N,00616.583E,626.0m,3,120,300.0m,,"Landefeld"
+"Butgenbach Elsen",,BE,5029.083N,00611.000E,562.0m,3,040,400.0m,,"Landefeld"
+"Buzet Nivelles",,BE,5032.600N,00422.900E,153.0m,3,160,200.0m,124.050,"Landefeld"
+"Chimay BaileuX",,BE,5002.050N,00422.200E,252.0m,3,090,220.0m,123.450,"Landefeld"
+"Chimay St Remy",,BE,5003.500N,00416.983E,250.0m,3,150,400.0m,123.450,"Landefeld"
+"Etalle Ul",,BE,4941.333N,00535.817E,346.0m,3,060,150.0m,,"Landefeld"
+"Heron Couthuin",,BE,5032.267N,00506.433E,172.0m,3,040,300.0m,123.450,"Landefeld"
+"Isieres Ath Ul ?",,BE,5039.900N,00348.350E,26.0m,3,170,400.0m,,"Landefeld"
+"Liernu Eghezee",,BE,5034.783N,00447.483E,170.0m,3,060,270.0m,123.450,"Landefeld"
+"LierneuX Ul ?",,BE,5017.200N,00550.183E,463.0m,3,040,300.0m,123.450,"Landefeld"
+"Maillen Assesse",,BE,5022.500N,00455.600E,272.0m,3,090,500.0m,123.550,"Landefeld"
+"Matagne Petite",,BE,5006.250N,00438.167E,234.0m,3,060,260.0m,,"Landefeld"
+"Moerbeke Waasul?",,BE,5110.217N,00357.750E,1.0m,3,170,400.0m,,"Landefeld"
+"Orchimont Ul",,BE,4954.400N,00456.050E,390.0m,3,030,400.0m,,"Landefeld"
+"Zuienkerke Ul",,BE,5115.333N,00308.383E,3.0m,3,180,400.0m,123.450,"Landefeld"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

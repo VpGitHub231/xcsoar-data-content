@@ -1,0 +1,70 @@
+* ##################################################################################################################################################################################################
+* Outlanding PT (Portugal)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Alcanena",,PT,3927.000N,00820.233W,150.0m,3,,800.0m,,"Landefeld"
+"Aldeia Palma Prv",,PT,3827.683N,00833.500W,60.0m,3,100,600.0m,,"Landefeld"
+"Alijo Cls",,PT,4119.000N,00727.000W,780.0m,3,120,,,"Landefeld"
+"Altura",,PT,3711.450N,00730.367W,200.0m,3,150,300.0m,,"Landefeld"
+"Amacao De Pe 25M",,PT,3706.667N,00820.667W,2.0m,3,010,300.0m,,"Landefeld"
+"Aveiro",,PT,4038.083N,00841.367W,60.0m,3,,,,"Landefeld"
+"Azambujas 20M",,PT,3903.350N,00849.300W,11.0m,3,140,,130.800,"Landefeld"
+"Cabo Sardao",,PT,3737.933N,00845.850W,55.0m,3,140,490.0m,,"Landefeld"
+"Chamusca 20M Agr",,PT,3919.183N,00830.850W,3.0m,3,130,,,"Landefeld"
+"Ciborro 30M Agri",,PT,3847.833N,00812.100W,153.0m,3,130,,,"Landefeld"
+"Coentral",,PT,4004.417N,00810.000W,1102.0m,3,110,,,"Landefeld"
+"Comporta",,PT,3823.300N,00847.000W,11.0m,3,180,,,"Landefeld"
+"Cruzamento",,PT,3842.650N,00835.717W,45.0m,3,,,,"Landefeld"
+"Falcoeiras",,PT,3826.617N,00732.600W,300.0m,3,,,,"Landefeld"
+"Fatimaboleir Prv",,PT,3934.150N,00841.300W,150.0m,3,160,,,"Landefeld"
+"Ferr Alent XS",,PT,3804.217N,00806.133W,133.0m,3,140,500.0m,,"Landefeld"
+"Ferreia",,PT,3942.867N,00816.000W,200.0m,3,,,,"Landefeld"
+"Ferr Zuzere",,PT,3941.000N,00815.100W,244.0m,3,150,,,"Landefeld"
+"Figueiredo",,PT,3951.000N,00758.333W,200.0m,3,,,,"Landefeld"
+"Fonte Serne Cerc",,PT,3750.400N,00830.767W,91.0m,3,150,600.0m,,"Landefeld"
+"F Salvaterra",,PT,3859.267N,00845.883W,200.0m,3,030,700.0m,,"Landefeld"
+"Iguas Moura Prv",,PT,3834.500N,00841.500W,15.0m,3,100,,,"Landefeld"
+"Ladoeiro XL 20M",,PT,3951.000N,00716.000W,229.0m,3,050,,,"Landefeld"
+"Lagos Ul",,PT,3707.317N,00840.733W,2.0m,3,110,540.0m,123.475,"Landefeld"
+"Lamegar",,PT,4105.000N,00741.250W,641.0m,3,020,800.0m,,"Landefeld"
+"Lamego Pista Sit",,PT,4103.800N,00741.900W,825.0m,3,020,600.0m,,"Landefeld"
+"Lezyria 20M",,PT,3854.100N,00856.000W,11.0m,3,100,,130.200,"Landefeld"
+"Loupinha",,PT,3915.600N,00920.167W,10.0m,3,020,,,"Landefeld"
+"Maranhao Agricol",,PT,3859.450N,00759.350W,162.0m,3,180,,,"Landefeld"
+"Minheupsalg 15M",,PT,4132.500N,00740.500W,1.0m,3,180,,,"Landefeld"
+"Montargi 20M",,PT,3903.100N,00808.250W,103.0m,3,,,,"Landefeld"
+"Monte Fidalgo",,PT,3940.483N,00731.400W,200.0m,3,,,,"Landefeld"
+"Mouriscas XS Ul",,PT,3929.417N,00804.833W,93.0m,3,170,,,"Landefeld"
+"Obidos",,PT,3923.483N,00914.350W,100.0m,3,180,800.0m,,"Landefeld"
+"Oriolac",,PT,3820.383N,00751.300W,250.0m,3,,,,"Landefeld"
+"Pias Longas 30M",,PT,3935.083N,00834.450W,381.0m,3,110,300.0m,,"Landefeld"
+"Pinheiro",,PT,3827.333N,00842.833W,9.0m,3,160,,,"Landefeld"
+"Porto Alto 20M A",,PT,3857.167N,00852.000W,3.0m,3,080,,,"Landefeld"
+"Rio Frio 15M Prv",,PT,3841.000N,00851.150W,15.0m,3,180,,,"Landefeld"
+"Samora",,PT,3855.050N,00846.717W,100.0m,3,,,,"Landefeld"
+"Sao Mancos XS",,PT,3827.833N,00744.500W,250.0m,3,,700.0m,,"Landefeld"
+"Setubal 15M",,PT,3829.933N,00849.017W,13.0m,3,180,,123.350,"Landefeld"
+"Tojeira 20M Hang",,PT,3852.000N,00925.000W,101.0m,3,170,,,"Landefeld"
+"Tomar XS",,PT,3935.483N,00822.483W,256.0m,3,030,,,"Landefeld"
+"Torrao 15M Agric",,PT,3818.900N,00815.500W,91.0m,3,070,,,"Landefeld"
+"Torre Va 20M Agr",,PT,3837.267N,00736.033W,301.0m,3,170,,,"Landefeld"
+"Valada 20M Prv",,PT,3904.250N,00845.550W,3.0m,3,040,,130.800,"Landefeld"
+"Vilafranca",,PT,3855.267N,00856.000W,10.0m,3,,,,"Landefeld"
+"Vilanova",,PT,3926.567N,00824.733W,237.0m,3,,,,"Landefeld"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

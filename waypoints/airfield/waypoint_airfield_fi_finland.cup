@@ -1,0 +1,110 @@
+* ##################################################################################################################################################################################################
+* Airfield FI (Finland)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Aavahelukka",,FI,6736.217N,02358.300E,226.0m,2,140,890.0m,123.500,"Flugplatz"
+"Ahmosuo Gld",,FI,6453.717N,02545.133E,31.0m,5,120,800.0m,123.400,"Flugplatz"
+"Alavus",,FI,6233.283N,02334.400E,125.0m,5,080,740.0m,123.500,"Flugplatz"
+"Enontekio",,FI,6821.867N,02325.650E,308.0m,5,030,1990.0m,122.450,"Flugplatz"
+"Eura",,FI,6106.967N,02212.083E,79.0m,5,110,980.0m,123.550,"Flugplatz"
+"Forssa",,FI,6048.117N,02338.733E,101.0m,5,040,800.0m,123.150,"Flugplatz"
+"Haapamaki",,FI,6215.467N,02420.050E,162.0m,2,150,400.0m,123.500,"Flugplatz"
+"Haapajarvi",,FI,6342.733N,02523.700E,107.0m,2,050,830.0m,123.150,"Flugplatz"
+"Haapavesi",,FI,6406.783N,02530.250E,98.0m,2,120,770.0m,123.550,"Flugplatz"
+"Hailuoto",,FI,6458.017N,02442.267E,3.0m,2,060,500.0m,123.400,"Flugplatz"
+"Halli",,FI,6151.383N,02447.350E,146.0m,5,080,2600.0m,119.700,"Flugplatz"
+"Hameenkyro",,FI,6141.417N,02304.450E,137.0m,5,070,950.0m,123.150,"Flugplatz"
+"Hanko",,FI,5950.733N,02304.933E,6.0m,5,030,1590.0m,123.600,"Flugplatz"
+"Helsinki-Vantaa",,FI,6019.033N,02457.800E,55.0m,5,040,3430.0m,118.600,"Flugplatz"
+"Helsinki-Malmi",,FI,6015.233N,02502.650E,18.0m,5,180,1320.0m,119.700,"Flugplatz"
+"Hyvinkaa Gld",,FI,6039.267N,02452.867E,131.0m,5,040,1260.0m,122.500,"Flugplatz"
+"Iisalmi Gld",,FI,6337.917N,02707.333E,116.0m,5,170,650.0m,123.550,"Flugplatz"
+"Immola",,FI,6114.983N,02854.217E,104.0m,5,010,1080.0m,123.600,"Flugplatz"
+"Ivalo",,FI,6836.650N,02724.833E,146.0m,5,040,2480.0m,118.000,"Flugplatz"
+"Jakalapaa",,FI,6842.683N,02545.167E,479.0m,2,120,400.0m,123.500,"Flugplatz"
+"Jamijarvi",,FI,6146.717N,02242.967E,156.0m,5,090,830.0m,123.650,"Flugplatz"
+"Joensuu",,FI,6239.533N,02937.467E,122.0m,5,100,2510.0m,119.700,"Flugplatz"
+"Jyvaskyla",,FI,6224.050N,02540.367E,140.0m,5,120,2600.0m,118.000,"Flugplatz"
+"Kajaani",,FI,6417.050N,02741.250E,146.0m,5,070,2480.0m,119.700,"Flugplatz"
+"Kalajoki",,FI,6413.717N,02349.583E,12.0m,5,050,1200.0m,123.400,"Flugplatz"
+"Kannus",,FI,6355.233N,02405.200E,104.0m,5,110,680.0m,123.450,"Flugplatz"
+"Karsamaki",,FI,6359.350N,02544.617E,107.0m,2,090,680.0m,123.550,"Flugplatz"
+"Kauhajoki",,FI,6227.800N,02223.467E,125.0m,5,070,1170.0m,118.450,"Flugplatz"
+"Kauhava",,FI,6307.450N,02303.083E,46.0m,5,170,2690.0m,119.700,"Flugplatz"
+"Kemijarvi",,FI,6642.950N,02709.433E,210.0m,5,170,1380.0m,123.500,"Flugplatz"
+"Kemi Tornio",,FI,6546.750N,02435.083E,18.0m,5,180,2510.0m,119.400,"Flugplatz"
+"Kiikala",,FI,6027.767N,02339.067E,116.0m,5,180,920.0m,123.600,"Flugplatz"
+"Kitee",,FI,6209.967N,03004.417E,110.0m,5,010,1500.0m,123.450,"Flugplatz"
+"Kittila",,FI,6741.917N,02450.883E,195.0m,5,160,2510.0m,119.700,"Flugplatz"
+"Kiuruvesi",,FI,6342.333N,02636.983E,159.0m,5,150,830.0m,123.500,"Flugplatz"
+"Kivijarvi",,FI,6307.517N,02507.450E,153.0m,5,120,890.0m,123.500,"Flugplatz"
+"Kokkola Pietarsa",,FI,6343.217N,02308.350E,24.0m,5,010,2510.0m,119.700,"Flugplatz"
+"Kuhmo",,FI,6406.750N,02926.317E,174.0m,2,120,830.0m,123.500,"Flugplatz"
+"Kumlinge",,FI,6014.817N,02048.283E,3.0m,5,150,590.0m,123.400,"Flugplatz"
+"Kuopio",,FI,6300.517N,02747.667E,98.0m,5,150,2790.0m,119.700,"Flugplatz"
+"Kuusamo",,FI,6559.417N,02913.917E,265.0m,5,120,2510.0m,119.700,"Flugplatz"
+"Kymi",,FI,6034.283N,02653.767E,67.0m,5,160,830.0m,123.550,"Flugplatz"
+"Lahti-Vesivehmaa",,FI,6108.650N,02541.583E,153.0m,5,070,1200.0m,123.400,"Flugplatz"
+"Lapinlahti Airf?",,FI,6323.967N,02728.800E,107.0m,2,050,500.0m,,"Flugplatz"
+"Lappeenranta",,FI,6102.750N,02808.917E,107.0m,5,060,2510.0m,119.700,"Flugplatz"
+"Lieksa Nurmes",,FI,6330.717N,02937.750E,113.0m,5,110,920.0m,123.400,"Flugplatz"
+"Mantsala Ulm",,FI,6034.350N,02530.533E,41.0m,2,040,400.0m,123.500,"Flugplatz"
+"Mariehamn",,FI,6007.317N,01953.783E,6.0m,5,030,1900.0m,119.600,"Flugplatz"
+"Martiniiskonpalo",,FI,6839.617N,02542.167E,466.0m,2,110,340.0m,123.500,"Flugplatz"
+"Menkijarvi Gld",,FI,6256.800N,02331.133E,101.0m,5,040,1200.0m,123.500,"Flugplatz"
+"Mikkeli",,FI,6141.183N,02712.000E,101.0m,5,110,1690.0m,123.000,"Flugplatz"
+"Nummela Gld",,FI,6020.033N,02417.783E,113.0m,5,040,1200.0m,122.100,"Flugplatz"
+"Oripaa Gld",,FI,6052.583N,02244.683E,101.0m,4,140,920.0m,123.200,"Flugplatz"
+"Oulu",,FI,6455.750N,02521.333E,15.0m,5,120,2510.0m,119.700,"Flugplatz"
+"Pieksamaki Naara",,FI,6215.883N,02700.167E,119.0m,5,150,890.0m,123.200,"Flugplatz"
+"Piikajarvi Gld",,FI,6114.767N,02211.583E,56.0m,5,170,1080.0m,123.550,"Flugplatz"
+"Pokka",,FI,6808.733N,02549.367E,259.0m,2,160,800.0m,123.150,"Flugplatz"
+"Pori",,FI,6127.683N,02147.867E,12.0m,5,120,2360.0m,119.250,"Flugplatz"
+"Pudasjaervi",,FI,6524.133N,02656.817E,122.0m,5,080,1990.0m,123.200,"Flugplatz"
+"Punkaharju",,FI,6143.733N,02923.617E,76.0m,5,160,500.0m,123.450,"Flugplatz"
+"Pyhaesalmi",,FI,6343.750N,02555.917E,162.0m,5,150,980.0m,121.600,"Flugplatz"
+"Pyhoselka",,FI,6227.883N,03002.117E,98.0m,2,180,630.0m,123.400,"Flugplatz"
+"Raahe Pattijoki",,FI,6441.283N,02441.750E,37.0m,5,100,980.0m,123.500,"Flugplatz"
+"Rantasalmi",,FI,6203.933N,02821.400E,88.0m,5,180,740.0m,123.200,"Flugplatz"
+"Ranua",,FI,6558.383N,02621.917E,165.0m,5,150,1200.0m,123.500,"Flugplatz"
+"Rautavaara",,FI,6325.450N,02807.450E,146.0m,2,180,1230.0m,123.500,"Flugplatz"
+"Rayskala Gld",,FI,6044.683N,02406.467E,125.0m,5,120,1260.0m,122.650,"Flugplatz"
+"Rovaniemi",,FI,6633.700N,02549.850E,195.0m,5,030,3000.0m,118.700,"Flugplatz"
+"Savikko",,FI,6031.200N,02449.900E,70.0m,5,050,430.0m,,"Flugplatz"
+"Savonlinna",,FI,6156.567N,02856.700E,95.0m,5,120,2300.0m,119.700,"Flugplatz"
+"Seinajoki Ilmajo",,FI,6241.617N,02249.917E,92.0m,5,140,1530.0m,123.600,"Flugplatz"
+"Selanpaa",,FI,6103.850N,02647.733E,128.0m,5,040,1110.0m,123.200,"Flugplatz"
+"Sodankyla",,FI,6723.800N,02637.083E,183.0m,5,160,1500.0m,123.400,"Flugplatz"
+"Sonkajarvi Jyrkk",,FI,6349.167N,02746.167E,183.0m,2,120,600.0m,123.500,"Flugplatz"
+"Sulkaharju",,FI,6323.867N,02401.833E,122.0m,2,080,740.0m,123.500,"Flugplatz"
+"Suomussalmi",,FI,6449.317N,02842.617E,165.0m,2,050,800.0m,123.500,"Flugplatz"
+"Tampere Pirkkala",,FI,6124.917N,02335.267E,119.0m,5,060,2690.0m,118.700,"Flugplatz"
+"Teisko Gld",,FI,6146.383N,02401.517E,159.0m,5,050,1200.0m,123.150,"Flugplatz"
+"Torbacka",,FI,6004.750N,02410.333E,15.0m,2,080,800.0m,123.600,"Flugplatz"
+"Turku",,FI,6030.883N,02215.700E,49.0m,5,080,2510.0m,118.300,"Flugplatz"
+"Utti",,FI,6053.783N,02656.283E,104.0m,5,070,1990.0m,119.700,"Flugplatz"
+"Vaala",,FI,6430.117N,02645.600E,134.0m,2,090,800.0m,123.500,"Flugplatz"
+"Vaasa",,FI,6302.717N,02145.850E,6.0m,5,160,2510.0m,119.300,"Flugplatz"
+"Vampula",,FI,6102.383N,02235.500E,92.0m,5,100,890.0m,123.550,"Flugplatz"
+"Varkaus",,FI,6210.267N,02752.117E,88.0m,5,140,1990.0m,120.400,"Flugplatz"
+"Viitasaari",,FI,6307.350N,02548.967E,110.0m,2,160,290.0m,123.500,"Flugplatz"
+"Vuotso",,FI,6805.233N,02707.433E,259.0m,2,180,590.0m,123.500,"Flugplatz"
+"Wredeby",,FI,6039.817N,02644.750E,24.0m,2,070,740.0m,123.550,"Flugplatz"
+"Ylivieska",,FI,6403.283N,02443.517E,76.0m,5,150,1500.0m,122.500,"Flugplatz"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

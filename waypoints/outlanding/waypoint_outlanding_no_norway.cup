@@ -1,0 +1,86 @@
+* ##################################################################################################################################################################################################
+* Outlanding NO (Norway)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Asane Uteland",,NO,6029.883N,00518.967E,328.0m,3,,,,"Landefeld"
+"Bergo Uteland O",,NO,6034.683N,00653.483E,262.0m,3,,,,"Landefeld"
+"Berge Uteland",,NO,6147.067N,00612.117E,14.0m,3,,,,"Landefeld"
+"Bjordal Uteland",,NO,6103.067N,00549.067E,489.0m,3,,,,"Landefeld"
+"Briksdal Uteland",,NO,6140.050N,00649.883E,303.0m,3,,,,"Landefeld"
+"Bryggia Uteland",,NO,6156.400N,00526.567E,1.0m,3,,,,"Landefeld"
+"Bu Uteland Outl",,NO,6028.017N,00650.000E,166.0m,3,,,,"Landefeld"
+"Byrkelo Uteland",,NO,6143.717N,00630.817E,139.0m,3,,,,"Landefeld"
+"Byrkjeland Utela",,NO,6134.783N,00552.450E,175.0m,3,,,,"Landefeld"
+"Dale Uteland Ou",,NO,6036.867N,00550.167E,59.0m,3,,,,"Landefeld"
+"Dalheim Uteland",,NO,6139.600N,00559.750E,359.0m,3,,,,"Landefeld"
+"Eidsvag Uteland",,NO,6025.467N,00521.950E,107.0m,3,,,,"Landefeld"
+"Eksingedalen Ou",,NO,6048.000N,00609.000E,436.0m,3,,,,"Landefeld"
+"Espedalen Utelan",,NO,6035.950N,00649.933E,497.0m,3,,,,"Landefeld"
+"Evanger Uteland",,NO,6039.600N,00604.533E,301.0m,3,,,,"Landefeld"
+"Fjerland Uteland",,NO,6125.983N,00645.333E,20.0m,3,,,,"Landefeld"
+"Fjon Uteland Ou",,NO,6050.333N,00535.717E,343.0m,3,,,,"Landefeld"
+"Flaam Uteland O",,NO,6051.733N,00706.833E,18.0m,3,,,,"Landefeld"
+"Fonn Uteland Ou",,NO,6136.600N,00643.383E,436.0m,3,,,,"Landefeld"
+"Geiranger Utelan",,NO,6205.100N,00713.967E,458.0m,3,,,,"Landefeld"
+"Gjon Uteland",,NO,6015.750N,00551.500E,53.0m,3,,,,"Landefeld"
+"Granvin Uteland",,NO,6034.400N,00644.183E,430.0m,3,,,,"Landefeld"
+"Gronndal Uteland",,NO,6141.267N,00534.850E,612.0m,3,,,,"Landefeld"
+"Grov Uteland Ou",,NO,6110.300N,00823.850E,468.0m,3,,,,"Landefeld"
+"Guddal Uteland",,NO,6114.750N,00533.150E,152.0m,3,,,,"Landefeld"
+"Haugen Uteland",,NO,6155.300N,00549.217E,241.0m,3,,,,"Landefeld"
+"Haukedal L Outl",,NO,6124.833N,00622.583E,332.0m,3,,,,"Landefeld"
+"Haus Uteland",,NO,6027.200N,00531.250E,33.0m,3,,,,"Landefeld"
+"Heggen Uteland",,NO,6155.817N,00613.817E,249.0m,3,,,,"Landefeld"
+"Hellesylt Utelan",,NO,6204.783N,00652.450E,37.0m,3,,,,"Landefeld"
+"Hestad Uteland",,NO,6119.317N,00557.683E,183.0m,3,,,,"Landefeld"
+"Hjelle Uteland",,NO,6155.300N,00605.967E,74.0m,3,,,,"Landefeld"
+"Hopland Uteland",,NO,6151.850N,00619.167E,1.0m,3,,,,"Landefeld"
+"Hornindal Utelan",,NO,6159.083N,00631.617E,128.0m,3,,,,"Landefeld"
+"Hyen Uteland",,NO,6143.883N,00555.217E,21.0m,3,,,,"Landefeld"
+"Invik Utelad Ou",,NO,6150.400N,00636.383E,101.0m,3,,,,"Landefeld"
+"Jondal Uteland",,NO,6017.700N,00619.500E,368.0m,3,,,,"Landefeld"
+"Klakegg Uteland",,NO,6136.683N,00631.800E,224.0m,3,,,,"Landefeld"
+"Langdal Uteland",,NO,6222.633N,00733.517E,428.0m,3,,,,"Landefeld"
+"Loksund Uteland",,NO,6001.083N,00544.233E,50.0m,3,,,,"Landefeld"
+"Modalen Uteland",,NO,6048.683N,00549.050E,428.0m,3,,,,"Landefeld"
+"Myklebust Utelan",,NO,6142.917N,00636.200E,392.0m,3,,,,"Landefeld"
+"Myrkdalen Utelan",,NO,6049.817N,00627.567E,246.0m,3,,,,"Landefeld"
+"Neroy Uteland",,NO,6055.017N,00651.017E,895.0m,3,,,,"Landefeld"
+"Nes Uteland Out",,NO,6135.433N,00557.950E,376.0m,3,,,,"Landefeld"
+"Oppheim Uteland",,NO,6048.500N,00640.617E,325.0m,3,,,,"Landefeld"
+"Ospeli Uteland",,NO,6156.167N,00714.733E,279.0m,3,,,,"Landefeld"
+"Rem Uteland Out",,NO,6220.150N,00727.150E,203.0m,3,,,,"Landefeld"
+"Rygg Uteland Ou",,NO,6146.000N,00607.833E,68.0m,3,,,,"Landefeld"
+"Samdalen Uteland",,NO,6019.367N,00531.000E,80.0m,3,020,210.0m,,"Landefeld"
+"Senneset Uteland",,NO,6118.033N,00550.167E,197.0m,3,,,,"Landefeld"
+"Stalheim Uteland",,NO,6051.550N,00646.567E,56.0m,3,,,,"Landefeld"
+"Strandvik Utelan",,NO,6009.933N,00539.100E,99.0m,3,,,,"Landefeld"
+"Teigdalen Utelan",,NO,6044.000N,00608.600E,154.0m,3,,,,"Landefeld"
+"Torvik Uteland",,NO,6155.183N,00546.483E,3.0m,3,,,,"Landefeld"
+"Torvund Uteland",,NO,6108.467N,00541.633E,2.0m,3,,,,"Landefeld"
+"Tysse Uteland",,NO,6023.083N,00548.000E,27.0m,3,,,,"Landefeld"
+"Ulvik Uteland O",,NO,6034.767N,00656.650E,156.0m,3,,,,"Landefeld"
+"Unneland Uteland",,NO,6021.817N,00528.817E,82.0m,3,180,200.0m,,"Landefeld"
+"Utvik Uteland",,NO,6148.100N,00631.317E,139.0m,3,,,,"Landefeld"
+"Valldal Uteland",,NO,6218.317N,00717.150E,565.0m,3,,,,"Landefeld"
+"Vangsnes Uteland",,NO,6109.917N,00638.400E,77.0m,3,,,,"Landefeld"
+"Vidnes Uteland",,NO,6009.367N,00535.250E,62.0m,3,,,,"Landefeld"
+"Vikja Uteland",,NO,6121.167N,00607.400E,407.0m,3,,,,"Landefeld"
+"Vinje Uteland O",,NO,6047.617N,00630.167E,292.0m,3,,,,"Landefeld"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*

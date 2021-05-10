@@ -1,0 +1,63 @@
+* ##################################################################################################################################################################################################
+* Airfield BE (Belgium)
+* Format: SeeYou Waypoint format (.cup)
+* $Author$
+* $Date$
+* $Rev$
+* $URL$
+* ##################################################################################################################################################################################################
+*
+* *****************************************************************************
+* Put manual added data below
+* *****************************************************************************
+*
+"Amougies Gld",,BE,5044.400N,00329.117E,14.0m,4,100,620.0m,119.750,"Flugplatz"
+"Antwerpen",,BE,5111.400N,00427.767E,7.0m,5,110,1500.0m,135.200,"Flugplatz"
+"Balen Keiheuvel",,BE,5110.833N,00513.250E,38.0m,2,070,680.0m,119.200,"Flugplatz"
+"Beauvechain",,BE,5045.467N,00446.017E,113.0m,5,040,3060.0m,122.100,"Flugplatz"
+"Beernem Stjoris",,BE,5107.817N,00320.950E,8.0m,2,090,300.0m,,"Flugplatz"
+"BertriX Jehonvil",,BE,4953.500N,00513.433E,460.0m,5,060,2390.0m,122.100,"Flugplatz"
+"Brasschaat",,BE,5120.683N,00430.150E,24.0m,5,170,880.0m,122.900,"Flugplatz"
+"Brussels Melsbro",,BE,5054.083N,00429.067E,55.0m,5,070,3640.0m,126.625,"Flugplatz"
+"Cerfontaine Nouv",,BE,5009.167N,00423.233E,293.0m,2,120,590.0m,125.875,"Flugplatz"
+"Charleroi",,BE,5027.600N,00427.167E,186.0m,5,070,2540.0m,121.300,"Flugplatz"
+"Chievre",,BE,5034.550N,00349.867E,58.0m,5,080,1630.0m,122.100,"Flugplatz"
+"Diest Schaffen",,BE,5100.250N,00503.950E,30.0m,2,060,700.0m,118.925,"Flugplatz"
+"Florennes",,BE,5014.600N,00438.733E,287.0m,5,080,3400.0m,122.100,"Flugplatz"
+"Froidchapelle Ul",,BE,5010.583N,00421.167E,275.0m,2,050,640.0m,,"Flugplatz"
+"Genk Zwartberg",,BE,5100.917N,00531.583E,85.0m,5,030,800.0m,120.400,"Flugplatz"
+"Geraardsbergen O",,BE,5045.333N,00351.833E,18.0m,2,030,590.0m,124.150,"Flugplatz"
+"Goetsenhoven",,BE,5046.900N,00457.467E,76.0m,5,170,770.0m,125.375,"Flugplatz"
+"Grimbergen Lint",,BE,5056.917N,00423.517E,28.0m,2,010,620.0m,119.500,"Flugplatz"
+"Hasselt Kiewit",,BE,5058.217N,00522.500E,43.0m,2,090,590.0m,118.325,"Flugplatz"
+"Hoevenen",,BE,5118.367N,00423.233E,3.0m,2,150,590.0m,135.000,"Flugplatz"
+"Ivoi Prv Cls",,BE,5021.533N,00456.450E,240.0m,2,060,400.0m,,"Flugplatz"
+"Kleine Brogel",,BE,5110.100N,00528.183E,61.0m,5,050,3090.0m,122.100,"Flugplatz"
+"Koksijde",,BE,5105.417N,00239.167E,6.0m,5,110,2660.0m,122.100,"Flugplatz"
+"Kortrijk Wevelge",,BE,5049.033N,00312.267E,18.0m,5,060,1840.0m,120.250,"Flugplatz"
+"Leopoldsburg Bev",,BE,5107.167N,00518.050E,60.0m,5,080,590.0m,125.525,"Flugplatz"
+"Liege",,BE,5038.183N,00526.567E,201.0m,5,050,3270.0m,122.100,"Flugplatz"
+"Moorsele",,BE,5050.100N,00308.883E,19.0m,2,040,650.0m,120.500,"Flugplatz"
+"Namur Suarlee Te",,BE,5029.383N,00446.233E,176.0m,2,060,680.0m,118.000,"Flugplatz"
+"Oostende Bruggen",,BE,5111.933N,00251.733E,3.0m,5,080,3180.0m,118.175,"Flugplatz"
+"Saint Ghislain B",,BE,5027.483N,00349.250E,21.0m,5,090,710.0m,118.425,"Flugplatz"
+"Sovet Prv",,BE,5017.250N,00502.333E,269.0m,2,050,500.0m,,"Flugplatz"
+"Spa La Sauvenier",,BE,5028.917N,00554.783E,469.0m,5,050,800.0m,124.750,"Flugplatz"
+"St Hubert Mil",,BE,5002.050N,00526.400E,588.0m,5,070,2600.0m,,"Flugplatz"
+"St Hubert Gld",,BE,5002.150N,00524.250E,564.0m,4,140,980.0m,123.500,"Flugplatz"
+"St Truiden",,BE,5047.333N,00511.650E,71.0m,5,060,1200.0m,119.975,"Flugplatz"
+"Tournai Maubray",,BE,5031.883N,00329.867E,49.0m,5,110,620.0m,123.750,"Flugplatz"
+"Ursel",,BE,5108.650N,00328.533E,31.0m,5,070,2970.0m,135.125,"Flugplatz"
+"Verviers TeuXGld",,BE,5033.067N,00551.217E,339.0m,4,060,740.0m,120.325,"Flugplatz"
+"Weelde",,BE,5123.650N,00457.550E,34.0m,5,070,2970.0m,119.600,"Flugplatz"
+"Zoersel Oostmall",,BE,5115.883N,00445.200E,15.0m,5,050,2970.0m,123.800,"Flugplatz"
+"Zottegem Oomber",,BE,5054.567N,00349.600E,73.0m,2,040,400.0m,122.075,"Flugplatz"
+"Zutendaal",,BE,5056.850N,00535.433E,95.0m,5,060,2970.0m,134.925,"Flugplatz"
+*
+* *****************************************************************************
+* Put external downloaded data below. 
+* Please update Data Source and Data Download Date information and check for doubled entries in manual data section above
+* Data Source: https://www.example-whatever-test.org
+* Data Download Date: 2021-04-27
+* *****************************************************************************
+*
